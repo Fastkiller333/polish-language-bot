@@ -22,8 +22,11 @@ import pytz
 
 from database import Database
 
-# Load environment variables
-load_dotenv()
+# Get the directory where this script is located
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Load environment variables from the script directory
+load_dotenv(os.path.join(BASE_DIR, '.env'))
 
 # Configure logging
 logging.basicConfig(
@@ -32,11 +35,13 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Initialize database
-db = Database()
+# Initialize database with absolute path
+db_path = os.path.join(BASE_DIR, 'polish_bot.db')
+db = Database(db_path)
 
 # Load words database
-with open('words_database.json', 'r', encoding='utf-8') as f:
+words_db_path = os.path.join(BASE_DIR, 'words_database.json')
+with open(words_db_path, 'r', encoding='utf-8') as f:
     WORDS_DATABASE = json.load(f)
 
 TOTAL_WORDS = len(WORDS_DATABASE)
