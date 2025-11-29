@@ -4,10 +4,18 @@ A bot to help users learn Polish language - 300 words with daily notifications
 """
 
 import os
+import sys
 import json
 import logging
 from datetime import time
 from dotenv import load_dotenv
+
+# Get the directory where this script is located
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Add the script directory to Python path to ensure imports work
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -21,9 +29,6 @@ from apscheduler.triggers.cron import CronTrigger
 import pytz
 
 from database import Database
-
-# Get the directory where this script is located
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Load environment variables from the script directory
 load_dotenv(os.path.join(BASE_DIR, '.env'))
