@@ -41,18 +41,23 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
+# Make start script executable
+echo "🔧 Making start_bot.sh executable..."
+chmod +x start_bot.sh
+
 # Print success message
 echo ""
 echo "✅ Setup completed successfully!"
 echo ""
 echo "📋 Next steps:"
 echo "1. Test the bot by running:"
-echo "   cd ~/polish_bot && source venv/bin/activate && python main.py"
+echo "   cd ~/polish_bot && bash start_bot.sh"
 echo ""
-echo "2. Set up a Scheduled Task on PythonAnywhere:"
-echo "   Command: /home/$USERNAME/polish_bot/venv/bin/python /home/$USERNAME/polish_bot/main.py"
+echo "2. Set up an Always-on Task on PythonAnywhere:"
+echo "   Command: bash /home/$USERNAME/polish_bot/start_bot.sh"
+echo "   Working directory: /home/$USERNAME/polish_bot"
 echo ""
-echo "3. Or keep the bot running with:"
-echo "   cd ~/polish_bot && source venv/bin/activate && nohup python main.py &"
+echo "3. Or test manually:"
+echo "   cd ~/polish_bot && source venv/bin/activate && python3 main.py"
 echo ""
 
