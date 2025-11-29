@@ -1,0 +1,3404 @@
+[
+  {
+    "id": 0,
+    "word": "dzień dobry",
+    "translation": "Добрый день / Здравствуйте",
+    "description": "Самое распространённое приветствие в Польше, буквально переводится как 'добрый день'. Используется с утра до вечера при встрече с людьми.",
+    "examples": [
+      "Dzień dobry! Jak się masz? — Здравствуйте! Как дела?",
+      "Dzień dobry panu! — Добрый день вам! (вежливая форма к мужчине)",
+      "Dzień dobry wszystkim! — Всем добрый день!"
+    ],
+    "fun_fact": "Поляки очень вежливы и всегда здороваются при входе в магазин, лифт или даже при встрече взглядом на лестничной клетке! Не поздороваться считается невоспитанностью.",
+    "transcription": "dzhen' dobry"
+  },
+  {
+    "id": 1,
+    "word": "tak",
+    "translation": "Да",
+    "description": "Простое слово согласия или подтверждения. Одно из первых слов, которое нужно выучить в любом языке.",
+    "examples": [
+      "Tak, rozumiem. — Да, понимаю.",
+      "Czy mówisz po polsku? Tak! — Ты говоришь по-польски? Да!",
+      "Tak jest! — Так точно! (военное)"
+    ],
+    "fun_fact": "В польском интонация при произнесении 'tak' может изменить его значение: вопросительная интонация превращает его в 'правда?' или 'действительно?'",
+    "transcription": "tak"
+  },
+  {
+    "id": 2,
+    "word": "nie",
+    "translation": "Нет / Не",
+    "description": "Слово отрицания. Используется как самостоятельно для отказа, так и с глаголами для образования отрицательных форм.",
+    "examples": [
+      "Nie, dziękuję. — Нет, спасибо.",
+      "Nie rozumiem. — Не понимаю.",
+      "Nie mam czasu. — У меня нет времени."
+    ],
+    "fun_fact": "В польском языке двойное отрицание не отменяет друг друга, а усиливает: 'Nigdy nic nie mówię' буквально 'Никогда ничего не говорю' и это грамматически правильно!",
+    "transcription": "nye"
+  },
+  {
+    "id": 3,
+    "word": "proszę",
+    "translation": "Пожалуйста / Прошу",
+    "description": "Универсальное вежливое слово. Используется при просьбе, как ответ на 'спасибо', при передаче предмета, при приглашении войти.",
+    "examples": [
+      "Proszę, weź to. — Пожалуйста, возьми это.",
+      "Dziękuję! — Proszę! — Спасибо! — Пожалуйста!",
+      "Proszę wejść! — Прошу войти!"
+    ],
+    "fun_fact": "Слово 'proszę' настолько многофункциональное, что может заменить целые фразы: в магазине можно просто показать на товар и сказать 'proszę', и вас поймут!",
+    "transcription": "proshe"
+  },
+  {
+    "id": 4,
+    "word": "dziękuję",
+    "translation": "Спасибо",
+    "description": "Стандартное выражение благодарности. Более формальная и полная форма, чем разговорное 'dzięki'.",
+    "examples": [
+      "Dziękuję bardzo! — Большое спасибо!",
+      "Dziękuję za pomoc. — Спасибо за помощь.",
+      "Serdecznie dziękuję. — Сердечно благодарю."
+    ],
+    "fun_fact": "Слово происходит от древнепольского 'dziękowač', что связано с благодарностью Богу. Краткая форма 'dzięki' используется только с друзьями!",
+    "transcription": "dzhenkuye"
+  },
+  {
+    "id": 5,
+    "word": "przepraszam",
+    "translation": "Извините / Простите",
+    "description": "Универсальное извинение или способ привлечь внимание (как 'excuse me'). Образовано от глагола 'przeprosić'.",
+    "examples": [
+      "Przepraszam, gdzie jest dworzec? — Извините, где вокзал?",
+      "Bardzo przepraszam! — Очень извините!",
+      "Przepraszam za spóźnienie. — Извините за опоздание."
+    ],
+    "fun_fact": "Сочетание 'prz' произносится как 'пш' и очень сложно для иностранцев. Но это слово обязательно нужно выучить — это признак воспитанного человека!",
+    "transcription": "psheprasham"
+  },
+  {
+    "id": 6,
+    "word": "dobranoc",
+    "translation": "Спокойной ночи",
+    "description": "Пожелание перед сном или при прощании поздно вечером. Буквально означает 'добрая ночь'.",
+    "examples": [
+      "Dobranoc, śpij dobrze! — Спокойной ночи, спи хорошо!",
+      "Dobranoc wszystkim! — Всем спокойной ночи!",
+      "Życzę ci dobrej nocy. — Желаю тебе доброй ночи."
+    ],
+    "fun_fact": "В польских семьях принято желать 'dobranoc' каждому члену семьи лично, даже если их много. Это важный семейный ритуал!",
+    "transcription": "dobranots"
+  },
+  {
+    "id": 7,
+    "word": "cześć",
+    "translation": "Привет / Пока",
+    "description": "Неформальное приветствие или прощание. Используется только с друзьями, семьей или людьми своего возраста.",
+    "examples": [
+      "Cześć! Co słychać? — Привет! Как дела?",
+      "Cześć, do zobaczenia! — Пока, увидимся!",
+      "Cześć wszystkim! — Всем привет!"
+    ],
+    "fun_fact": "Слово 'cześć' изначально означало 'честь' или 'почтение'. Приветствие 'cześć' буквально значит 'честь (тебе)'!",
+    "transcription": "cheshch'"
+  },
+  {
+    "id": 8,
+    "word": "do widzenia",
+    "translation": "До свидания",
+    "description": "Формальное прощание. Буквально переводится как 'до видения'. Универсальное и вежливое.",
+    "examples": [
+      "Do widzenia! Miłego dnia! — До свидания! Хорошего дня!",
+      "Do widzenia, do jutra! — До свидания, до завтра!",
+      "Mówię do widzenia. — Говорю до свидания."
+    ],
+    "fun_fact": "В магазинах Польши принято говорить 'do widzenia' даже незнакомому продавцу — это знак уважения и хороших манер.",
+    "transcription": "do vidzenia"
+  },
+  {
+    "id": 9,
+    "word": "smacznego",
+    "translation": "Приятного аппетита",
+    "description": "Пожелание перед едой. Происходит от прилагательного 'smaczny' (вкусный). Родительный падеж создаёт пожелание.",
+    "examples": [
+      "Smacznego! — Приятного аппетита!",
+      "Smacznego posiłku! — Приятного приёма пищи! (формально)",
+      "Życzę smacznego! — Желаю приятного аппетита!"
+    ],
+    "fun_fact": "В Польше принято отвечать на 'smacznego' словом 'dziękuję' (спасибо) или 'nawzajem' (взаимно). Воскресный обед в 14:00 — священное время!",
+    "transcription": "smachnego"
+  },
+  {
+    "id": 10,
+    "word": "jak się masz",
+    "translation": "Как дела / Как ты",
+    "description": "Вопрос о самочувствии или делах собеседника. Используется в неформальном общении.",
+    "examples": [
+      "Cześć! Jak się masz? — Привет! Как дела?",
+      "Jak się macie? — Как у вас дела? (множественное число)",
+      "Jak się Pan ma? — Как Вы себя чувствуете? (формально)"
+    ],
+    "fun_fact": "Буквально 'jak się masz' означает 'как себя имеешь'. Формальный вариант 'jak się Pan/Pani ma' обязателен при обращении к старшим!",
+    "transcription": "yak shye mash"
+  },
+  {
+    "id": 11,
+    "word": "dobrze",
+    "translation": "Хорошо",
+    "description": "Наречие, означающее 'хорошо', 'хорошим образом'. Стандартный ответ на вопрос 'как дела'.",
+    "examples": [
+      "Jak się masz? — Dobrze, dziękuję! — Как дела? — Хорошо, спасибо!",
+      "To jest dobrze. — Это хорошо.",
+      "Wszystko dobrze. — Всё хорошо."
+    ],
+    "fun_fact": "Поляки часто отвечают 'dobrze' автоматически, даже если дела не очень. Это социальная норма вежливости!",
+    "transcription": "dobzhe"
+  },
+  {
+    "id": 12,
+    "word": "źle",
+    "translation": "Плохо",
+    "description": "Наречие, противоположное 'dobrze'. Означает плохое состояние или плохое качество.",
+    "examples": [
+      "Czuję się źle. — Чувствую себя плохо.",
+      "To jest źle. — Это плохо.",
+      "Źle mi. — Мне плохо."
+    ],
+    "fun_fact": "Буква 'ź' (z с акутом) — один из сложных польских звуков, мягче чем русское 'зь'. В слове 'źle' важно правильное произношение!",
+    "transcription": "zhle"
+  },
+  {
+    "id": 13,
+    "word": "co",
+    "translation": "Что",
+    "description": "Вопросительное местоимение. Используется для вопросов о предметах, явлениях, действиях.",
+    "examples": [
+      "Co to jest? — Что это?",
+      "Co robisz? — Что делаешь?",
+      "Co słychać? — Что слышно? (Как дела?)"
+    ],
+    "fun_fact": "Фраза 'co słychać?' (буквально 'что слышно?') — популярный неформальный способ спросить 'как дела?'",
+    "transcription": "tso"
+  },
+  {
+    "id": 14,
+    "word": "kto",
+    "translation": "Кто",
+    "description": "Вопросительное местоимение для вопросов о людях.",
+    "examples": [
+      "Kto to? — Кто это?",
+      "Kto tam? — Кто там?",
+      "Kto mówi? — Кто говорит?"
+    ],
+    "fun_fact": "В польском языке 'kto' склоняется по падежам: kto (именительный), kogo (родительный), komu (дательный) и т.д.",
+    "transcription": "kto"
+  },
+  {
+    "id": 15,
+    "word": "gdzie",
+    "translation": "Где",
+    "description": "Вопросительное наречие места. Один из самых важных вопросов для туристов!",
+    "examples": [
+      "Gdzie jest toaleta? — Где туалет?",
+      "Gdzie mieszkasz? — Где ты живёшь?",
+      "Skąd i dokąd? — Откуда и куда?"
+    ],
+    "fun_fact": "Родственные слова: 'skąd' (откуда), 'dokąd' (куда), 'nigdzie' (нигде). Все с основой '-dzie'!",
+    "transcription": "gdzhe"
+  },
+  {
+    "id": 16,
+    "word": "kiedy",
+    "translation": "Когда",
+    "description": "Вопросительное наречие времени. Используется для вопросов о времени событий.",
+    "examples": [
+      "Kiedy przyjdziesz? — Когда придёшь?",
+      "Kiedy to było? — Когда это было?",
+      "Od kiedy? — С каких пор?"
+    ],
+    "fun_fact": "Слово 'kiedy' также используется как союз 'когда' в сложных предложениях: 'Kiedy byłem mały...' — 'Когда я был маленький...'",
+    "transcription": "kyedy"
+  },
+  {
+    "id": 17,
+    "word": "dlaczego",
+    "translation": "Почему",
+    "description": "Вопрос о причине. Буквально состоит из 'dla' (для) и 'czego' (чего).",
+    "examples": [
+      "Dlaczego? — Почему?",
+      "Dlaczego nie? — Почему нет?",
+      "Dlaczego pytasz? — Почему спрашиваешь?"
+    ],
+    "fun_fact": "Слово 'czemu' — разговорный синоним 'dlaczego', короче и проще в произношении!",
+    "transcription": "dlachego"
+  },
+  {
+    "id": 18,
+    "word": "jak",
+    "translation": "Как",
+    "description": "Вопросительное слово о способе или качестве. Очень многофункциональное слово.",
+    "examples": [
+      "Jak się nazywasz? — Как тебя зовут?",
+      "Jak to zrobić? — Как это сделать?",
+      "Jak pięknie! — Как красиво!"
+    ],
+    "fun_fact": "Слово 'jak' также означает 'как' в значении сравнения: 'biały jak śnieg' — 'белый как снег'.",
+    "transcription": "yak"
+  },
+  {
+    "id": 19,
+    "word": "ile",
+    "translation": "Сколько",
+    "description": "Вопрос о количестве или цене. Важное слово для шопинга!",
+    "examples": [
+      "Ile to kosztuje? — Сколько это стоит?",
+      "Ile masz lat? — Сколько тебе лет?",
+      "Ile czasu? — Сколько времени?"
+    ],
+    "fun_fact": "В магазине можно просто спросить 'ile?' показывая на товар, и вам назовут цену!",
+    "transcription": "ile"
+  },
+  {
+    "id": 20,
+    "word": "ja",
+    "translation": "Я",
+    "description": "Личное местоимение первого лица единственного числа. Основа для многих фраз.",
+    "examples": [
+      "Ja jestem z Rosji. — Я из России.",
+      "Ja nie rozumiem. — Я не понимаю.",
+      "To ja! — Это я!"
+    ],
+    "fun_fact": "В польском местоимение 'ja' часто опускается, так как форма глагола уже указывает на лицо: 'Jestem Polakiem' = 'Я поляк'.",
+    "transcription": "ya"
+  },
+  {
+    "id": 21,
+    "word": "ty",
+    "translation": "Ты",
+    "description": "Личное местоимение второго лица единственного числа. Для неформального общения.",
+    "examples": [
+      "Ty jesteś miły. — Ты милый.",
+      "Czy ty rozumiesz? — Ты понимаешь?",
+      "Ty i ja. — Ты и я."
+    ],
+    "fun_fact": "Переход на 'ты' (mówienie po imieniu) в Польше — важный момент. К старшим и незнакомым всегда 'Pan/Pani'!",
+    "transcription": "ty"
+  },
+  {
+    "id": 22,
+    "word": "on",
+    "translation": "Он",
+    "description": "Личное местоимение третьего лица мужского рода.",
+    "examples": [
+      "On jest lekarzem. — Он врач.",
+      "Gdzie on jest? — Где он?",
+      "On mówi po polsku. — Он говорит по-польски."
+    ],
+    "fun_fact": "В польском есть также 'ono' (оно) для среднего рода, что отличается от русского, где 'оно' используется реже.",
+    "transcription": "on"
+  },
+  {
+    "id": 23,
+    "word": "ona",
+    "translation": "Она",
+    "description": "Личное местоимение третьего лица женского рода.",
+    "examples": [
+      "Ona jest nauczycielką. — Она учительница.",
+      "Ona mieszka w Warszawie. — Она живёт в Варшаве.",
+      "Kocham ją. (ją = её, форма 'ona') — Люблю её."
+    ],
+    "fun_fact": "Форма 'ją' (её, в винительном падеже) произносится как 'йо' — одна буква, а звук сложный!",
+    "transcription": "ona"
+  },
+  {
+    "id": 24,
+    "word": "my",
+    "translation": "Мы",
+    "description": "Личное местоимение первого лица множественного числа.",
+    "examples": [
+      "My jesteśmy przyjaciółmi. — Мы друзья.",
+      "My mówimy po polsku. — Мы говорим по-польски.",
+      "To my! — Это мы!"
+    ],
+    "fun_fact": "Форма глагола с 'my' всегда заканчивается на '-my': mówimy, jemy, idziemy.",
+    "transcription": "my"
+  },
+  {
+    "id": 25,
+    "word": "wy",
+    "translation": "Вы (множ. число)",
+    "description": "Личное местоимение второго лица множественного числа. Не путать с вежливым 'Вы'!",
+    "examples": [
+      "Wy jesteście mili. — Вы милые.",
+      "Czy wy rozumiecie? — Вы понимаете?",
+      "To dla was. — Это для вас."
+    ],
+    "fun_fact": "Для вежливого 'Вы' используется 'Pan' (к мужчине) или 'Pani' (к женщине), но не 'wy'!",
+    "transcription": "vy"
+  },
+  {
+    "id": 26,
+    "word": "oni",
+    "translation": "Они (муж. род)",
+    "description": "Личное местоимение третьего лица множественного числа для группы мужчин или смешанной группы.",
+    "examples": [
+      "Oni są studentami. — Они студенты.",
+      "Gdzie oni mieszkają? — Где они живут?",
+      "Oni przyjdą jutro. — Они придут завтра."
+    ],
+    "fun_fact": "Даже если в группе 99 женщин и 1 мужчина, используется 'oni', а не 'one'!",
+    "transcription": "oni"
+  },
+  {
+    "id": 27,
+    "word": "one",
+    "translation": "Они (жен. род)",
+    "description": "Личное местоимение третьего лица множественного числа для группы женщин.",
+    "examples": [
+      "One są nauczycielkami. — Они учительницы.",
+      "One mówią po polsku. — Они говорят по-польски.",
+      "Znam je. — Знаю их."
+    ],
+    "fun_fact": "Форма 'one' используется ТОЛЬКО если вся группа состоит исключительно из женщин или существ женского рода!",
+    "transcription": "one"
+  },
+  {
+    "id": 28,
+    "word": "mój",
+    "translation": "Мой",
+    "description": "Притяжательное местоимение. Изменяется по родам: mój (муж.), moja (жен.), moje (ср.).",
+    "examples": [
+      "To jest mój dom. — Это мой дом.",
+      "To jest moja książka. — Это моя книга.",
+      "To jest moje dziecko. — Это мой ребёнок."
+    ],
+    "fun_fact": "Все притяжательные местоимения в польском согласуются с родом существительного, которое они определяют!",
+    "transcription": "moy"
+  },
+  {
+    "id": 29,
+    "word": "twój",
+    "translation": "Твой",
+    "description": "Притяжательное местоимение второго лица: twój (муж.), twoja (жен.), twoje (ср.).",
+    "examples": [
+      "To jest twój problem. — Это твоя проблема.",
+      "Twoja mama. — Твоя мама.",
+      "Twoje życie. — Твоя жизнь."
+    ],
+    "fun_fact": "Буква 'w' в 'twój' произносится как английское 'v', а сочетание 'tw' звучит необычно для русского уха!",
+    "transcription": "tvoy"
+  },
+  {
+    "id": 30,
+    "word": "dom",
+    "translation": "Дом",
+    "description": "Жилище, здание для проживания. Одно из базовых существительных.",
+    "examples": [
+      "Mój dom jest duży. — Мой дом большой.",
+      "Wracam do domu. — Возвращаюсь домой.",
+      "Dom rodzinny. — Родительский дом."
+    ],
+    "fun_fact": "В польской культуре 'dom' — не просто здание, а символ семьи, уюта и традиций. Выражение 'czuć się jak w domu' — 'чувствовать себя как дома'.",
+    "transcription": "dom"
+  },
+  {
+    "id": 31,
+    "word": "rodzina",
+    "translation": "Семья",
+    "description": "Группа родственников, живущих вместе или связанных кровным родством.",
+    "examples": [
+      "Moja rodzina jest duża. — Моя семья большая.",
+      "Kocham moją rodzinę. — Люблю свою семью.",
+      "Rodzina jest najważniejsza. — Семья важнее всего."
+    ],
+    "fun_fact": "Воскресные семейные обеды (niedzielny obiad) — священная традиция в польских семьях!",
+    "transcription": "rodzina"
+  },
+  {
+    "id": 32,
+    "word": "matka",
+    "translation": "Мать",
+    "description": "Формальное слово для матери. В разговорной речи чаще используется 'mama'.",
+    "examples": [
+      "Moja matka jest nauczycielką. — Моя мать учительница.",
+      "Matka i ojciec. — Мать и отец.",
+      "Dzień Matki. — День матери."
+    ],
+    "fun_fact": "День матери в Польше отмечается 26 мая, и дети дарят мамам цветы и самодельные открытки!",
+    "transcription": "matka"
+  },
+  {
+    "id": 33,
+    "word": "ojciec",
+    "translation": "Отец",
+    "description": "Формальное слово для отца. Разговорный вариант — 'tata' или 'tato'.",
+    "examples": [
+      "Mój ojciec pracuje w banku. — Мой отец работает в банке.",
+      "Ojciec i syn. — Отец и сын.",
+      "Ojciec chrzestny. — Крёстный отец."
+    ],
+    "fun_fact": "День отца в Польше празднуется 23 июня — в день святого Иосифа, покровителя отцов!",
+    "transcription": "oytsyets"
+  },
+  {
+    "id": 34,
+    "word": "syn",
+    "translation": "Сын",
+    "description": "Мужской ребёнок по отношению к родителям.",
+    "examples": [
+      "Mam dwóch synów. — У меня два сына.",
+      "On jest moim synem. — Он мой сын.",
+      "Syn i córka. — Сын и дочь."
+    ],
+    "fun_fact": "В польском, как и в русском, есть уменьшительные формы: synek (сынок), synuś (сыночек).",
+    "transcription": "syn"
+  },
+  {
+    "id": 35,
+    "word": "córka",
+    "translation": "Дочь",
+    "description": "Женский ребёнок по отношению к родителям.",
+    "examples": [
+      "Moja córka ma 5 lat. — Моей дочери 5 лет.",
+      "Córka i syn. — Дочь и сын.",
+      "To jest moja córeczka. — Это моя доченька."
+    ],
+    "fun_fact": "Уменьшительная форма 'córeczka' (доченька) очень популярна и используется даже для взрослых дочерей!",
+    "transcription": "tsoorka"
+  },
+  {
+    "id": 36,
+    "word": "brat",
+    "translation": "Брат",
+    "description": "Мужчина или мальчик по отношению к другим детям тех же родителей.",
+    "examples": [
+      "Mój brat mieszka w Krakowie. — Мой брат живёт в Кракове.",
+      "Starszy brat. — Старший брат.",
+      "Mam trzech braci. — У меня три брата."
+    ],
+    "fun_fact": "Множественное число 'bracia' (братья) — нерегулярная форма, запомните её!",
+    "transcription": "brat"
+  },
+  {
+    "id": 37,
+    "word": "siostra",
+    "translation": "Сестра",
+    "description": "Женщина или девочка по отношению к другим детям тех же родителей.",
+    "examples": [
+      "Moja siostra jest lekarzem. — Моя сестра врач.",
+      "Młodsza siostra. — Младшая сестра.",
+      "Mam dwie siostry. — У меня две сестры."
+    ],
+    "fun_fact": "Слово 'siostra' также означает 'медсестра' в больнице — важно понимать контекст!",
+    "transcription": "shostra"
+  },
+  {
+    "id": 38,
+    "word": "przyjaciel",
+    "translation": "Друг",
+    "description": "Близкий человек, с которым дружишь. Женская форма — 'przyjaciółka'.",
+    "examples": [
+      "On jest moim najlepszym przyjacielem. — Он мой лучший друг.",
+      "Przyjaciel w potrzebie. — Друг в беде.",
+      "Mam wielu przyjaciół. — У меня много друзей."
+    ],
+    "fun_fact": "9 июня в Польше отмечается День друзей (Dzień Przyjaciela), когда люди благодарят своих друзей!",
+    "transcription": "pshyyatsyel"
+  },
+  {
+    "id": 39,
+    "word": "miłość",
+    "translation": "Любовь",
+    "description": "Глубокое чувство привязанности, заботы и нежности к кому-либо или чему-либо.",
+    "examples": [
+      "Miłość jest najważniejsza. — Любовь важнее всего.",
+      "Prawdziwa miłość. — Настоящая любовь.",
+      "Kocham cię z całego serca. — Люблю тебя всем сердцем."
+    ],
+    "fun_fact": "Глагол 'kochać' (любить) — один из самых важных глаголов! 'Kocham cię' — главные слова для влюблённых.",
+    "transcription": "miwoshch'"
+  },
+  {
+    "id": 40,
+    "word": "kobieta",
+    "translation": "Женщина",
+    "description": "Взрослый человек женского пола.",
+    "examples": [
+      "Ta kobieta jest piękna. — Эта женщина красива.",
+      "Silna kobieta. — Сильная женщина.",
+      "Prawa kobiet. — Права женщин."
+    ],
+    "fun_fact": "8 марта в Польше также празднуется как Международный женский день, и мужчины дарят женщинам цветы!",
+    "transcription": "kobyeta"
+  },
+  {
+    "id": 41,
+    "word": "mężczyzna",
+    "translation": "Мужчина",
+    "description": "Взрослый человек мужского пола.",
+    "examples": [
+      "Ten mężczyzna jest wysoki. — Этот мужчина высокий.",
+      "Młody mężczyzna. — Молодой мужчина.",
+      "Prawdziwy mężczyzna. — Настоящий мужчина."
+    ],
+    "fun_fact": "Буква 'ę' в 'mężczyzna' — носовой гласный, один из самых сложных звуков польского языка!",
+    "transcription": "menzh-chyzna"
+  },
+  {
+    "id": 42,
+    "word": "dziecko",
+    "translation": "Ребёнок",
+    "description": "Маленький человек, мальчик или девочка. Средний род.",
+    "examples": [
+      "Mam jedno dziecko. — У меня один ребёнок.",
+      "Dzieci się bawią. — Дети играют.",
+      "Małe dziecko. — Маленький ребёнок."
+    ],
+    "fun_fact": "Множественное число 'dzieci' (дети) — нерегулярная форма среднего рода, будьте внимательны!",
+    "transcription": "dzhyetsko"
+  },
+  {
+    "id": 43,
+    "word": "chłopiec",
+    "translation": "Мальчик",
+    "description": "Ребёнок или подросток мужского пола.",
+    "examples": [
+      "Mały chłopiec. — Маленький мальчик.",
+      "Chłopiec gra w piłkę. — Мальчик играет в мяч.",
+      "Ten chłopiec ma 10 lat. — Этому мальчику 10 лет."
+    ],
+    "fun_fact": "Разговорная форма 'chłopak' используется для молодого человека или парня.",
+    "transcription": "hwopyets"
+  },
+  {
+    "id": 44,
+    "word": "dziewczyna",
+    "translation": "Девушка / Девочка",
+    "description": "Молодая женщина или девочка. Также может означать 'подруга' (в романтическом смысле).",
+    "examples": [
+      "Ładna dziewczyna. — Красивая девушка.",
+      "To jest moja dziewczyna. — Это моя девушка (в романтическом смысле).",
+      "Młoda dziewczyna. — Молодая девушка."
+    ],
+    "fun_fact": "Слово 'dziewczyna' многофункционально: может быть и 'девочка', и 'девушка', и 'подруга'!",
+    "transcription": "dzhyevchyna"
+  },
+  {
+    "id": 45,
+    "word": "ludzie",
+    "translation": "Люди",
+    "description": "Множественное число от 'człowiek' (человек). Группа людей.",
+    "examples": [
+      "Dużo ludzi. — Много людей.",
+      "Ludzie są mili. — Люди милые.",
+      "Wszyscy ludzie. — Все люди."
+    ],
+    "fun_fact": "Единственное число 'człowiek', множественное 'ludzie' — это одна из самых нерегулярных форм в польском!",
+    "transcription": "ludzhe"
+  },
+  {
+    "id": 46,
+    "word": "człowiek",
+    "translation": "Человек",
+    "description": "Отдельный представитель человеческого рода. Философское понятие личности.",
+    "examples": [
+      "Każdy człowiek jest inny. — Каждый человек разный.",
+      "Dobry człowiek. — Хороший человек.",
+      "Prawa człowieka. — Права человека."
+    ],
+    "fun_fact": "Множественное число — 'ludzie', а не 'człowieki'! Это исключение нужно запомнить.",
+    "transcription": "chwo-vyek"
+  },
+  {
+    "id": 47,
+    "word": "praca",
+    "translation": "Работа",
+    "description": "Деятельность, труд, занятие. Также место работы.",
+    "examples": [
+      "Mam dużo pracy. — У меня много работы.",
+      "Idę do pracy. — Иду на работу.",
+      "Szukam pracy. — Ищу работу."
+    ],
+    "fun_fact": "1 мая в Польше — День труда (Święto Pracy), государственный выходной день!",
+    "transcription": "pratsa"
+  },
+  {
+    "id": 48,
+    "word": "szkoła",
+    "translation": "Школа",
+    "description": "Образовательное учреждение, где дети получают знания.",
+    "examples": [
+      "Idę do szkoły. — Иду в школу.",
+      "Szkoła podstawowa. — Начальная школа.",
+      "Moja szkoła jest duża. — Моя школа большая."
+    ],
+    "fun_fact": "Польская система образования: szkoła podstawowa (8 лет), liceum (4 года), uniwersytet (3-5 лет).",
+    "transcription": "shkowa"
+  },
+  {
+    "id": 49,
+    "word": "nauczyciel",
+    "translation": "Учитель",
+    "description": "Человек, который преподаёт в школе. Женская форма — 'nauczycielka'.",
+    "examples": [
+      "Mój nauczyciel jest dobry. — Мой учитель хороший.",
+      "Nauczyciel matematyki. — Учитель математики.",
+      "Ona jest nauczycielką. — Она учительница."
+    ],
+    "fun_fact": "14 октября — День учителя (Dzień Edukacji Narodowej) в Польше, когда дети дарят цветы учителям!",
+    "transcription": "na-uchychyel"
+  },
+  {
+    "id": 50,
+    "word": "uczeń",
+    "translation": "Ученик",
+    "description": "Человек, который учится в школе.",
+    "examples": [
+      "On jest uczniem. — Он ученик."
+    ],
+    "fun_fact": "Женская форма — uczennica (ученица).",
+    "transcription": "uchen'"
+  },
+  {
+    "id": 51,
+    "word": "student",
+    "translation": "Студент",
+    "description": "Человек, который учится в университете.",
+    "examples": [
+      "Jestem studentem. — Я студент."
+    ],
+    "fun_fact": "Польские студенты имеют много льгот и скидок!",
+    "transcription": "student"
+  },
+  {
+    "id": 52,
+    "word": "książka",
+    "translation": "Книга",
+    "description": "Печатное издание для чтения.",
+    "examples": [
+      "Czytam książkę. — Читаю книгу."
+    ],
+    "fun_fact": "Польша — страна с высоким уровнем грамотности.",
+    "transcription": "kshonzhka"
+  },
+  {
+    "id": 53,
+    "word": "czytać",
+    "translation": "Читать",
+    "description": "Воспринимать текст глазами.",
+    "examples": [
+      "Lubię czytać. — Люблю читать."
+    ],
+    "fun_fact": "Глагол несовершенного вида, прочитать — przeczytać.",
+    "transcription": "chytach'"
+  },
+  {
+    "id": 54,
+    "word": "pisać",
+    "translation": "Писать",
+    "description": "Создавать текст ручкой или на компьютере.",
+    "examples": [
+      "Piszę list. — Пишу письмо."
+    ],
+    "fun_fact": "Написать (совершенный вид) — napisać.",
+    "transcription": "pisach'"
+  },
+  {
+    "id": 55,
+    "word": "mówić",
+    "translation": "Говорить",
+    "description": "Произносить слова, разговаривать.",
+    "examples": [
+      "Mówię po polsku. — Говорю по-польски."
+    ],
+    "fun_fact": "Сказать (совершенный вид) — powiedzieć.",
+    "transcription": "moovich'"
+  },
+  {
+    "id": 56,
+    "word": "słuchać",
+    "translation": "Слушать",
+    "description": "Воспринимать звуки ушами, обращать внимание.",
+    "examples": [
+      "Słucham muzyki. — Слушаю музыку."
+    ],
+    "fun_fact": "Послушать — posłuchać.",
+    "transcription": "swuhach'"
+  },
+  {
+    "id": 57,
+    "word": "rozumieć",
+    "translation": "Понимать",
+    "description": "Осознавать смысл чего-либо.",
+    "examples": [
+      "Rozumiem. — Понимаю."
+    ],
+    "fun_fact": "Понять (совершенный вид) — zrozumieć.",
+    "transcription": "rozumyech'"
+  },
+  {
+    "id": 58,
+    "word": "widzieć",
+    "translation": "Видеть",
+    "description": "Воспринимать глазами, замечать.",
+    "examples": [
+      "Widzę dom. — Вижу дом."
+    ],
+    "fun_fact": "Увидеть — zobaczyć.",
+    "transcription": "vidzech'"
+  },
+  {
+    "id": 59,
+    "word": "patrzeć",
+    "translation": "Смотреть",
+    "description": "Направлять взгляд на что-то.",
+    "examples": [
+      "Patrzę na ciebie. — Смотрю на тебя."
+    ],
+    "fun_fact": "Посмотреть — popatrzeć.",
+    "transcription": "patzhech'"
+  },
+  {
+    "id": 60,
+    "word": "robić",
+    "translation": "Делать",
+    "description": "Совершать действие, создавать что-то.",
+    "examples": [
+      "Co robisz? — Что делаешь?"
+    ],
+    "fun_fact": "Сделать — zrobić.",
+    "transcription": "robich'"
+  },
+  {
+    "id": 61,
+    "word": "jeść",
+    "translation": "Есть (кушать)",
+    "description": "Принимать пищу.",
+    "examples": [
+      "Jem obiad. — Ем обед."
+    ],
+    "fun_fact": "Неправильный глагол: jem, jesz, je...",
+    "transcription": "yeshch'"
+  },
+  {
+    "id": 62,
+    "word": "pić",
+    "translation": "Пить",
+    "description": "Употреблять жидкость.",
+    "examples": [
+      "Piję wodę. — Пью воду."
+    ],
+    "fun_fact": "Выпить — wypić.",
+    "transcription": "pich'"
+  },
+  {
+    "id": 63,
+    "word": "spać",
+    "translation": "Спать",
+    "description": "Находиться в состоянии сна.",
+    "examples": [
+      "Śpię 8 godzin. — Сплю 8 часов."
+    ],
+    "fun_fact": "Поспать — pospać.",
+    "transcription": "spach'"
+  },
+  {
+    "id": 64,
+    "word": "iść",
+    "translation": "Идти (пешком)",
+    "description": "Передвигаться пешком.",
+    "examples": [
+      "Idę do domu. — Иду домой."
+    ],
+    "fun_fact": "Пойти — pójść. Один из самых сложных глаголов!",
+    "transcription": "ishch'"
+  },
+  {
+    "id": 65,
+    "word": "jechać",
+    "translation": "Ехать (на транспорте)",
+    "description": "Передвигаться на транспорте.",
+    "examples": [
+      "Jadę autobusem. — Еду на автобусе."
+    ],
+    "fun_fact": "Поехать — pojechać.",
+    "transcription": "yehach'"
+  },
+  {
+    "id": 66,
+    "word": "mieszkać",
+    "translation": "Жить (проживать)",
+    "description": "Иметь местожительство где-то.",
+    "examples": [
+      "Mieszkam w Warszawie. — Живу в Варшаве."
+    ],
+    "fun_fact": "Zamieszkać — поселиться.",
+    "transcription": "myeshkach'"
+  },
+  {
+    "id": 67,
+    "word": "pracować",
+    "translation": "Работать",
+    "description": "Выполнять трудовую деятельность.",
+    "examples": [
+      "Pracuję w banku. — Работаю в банке."
+    ],
+    "fun_fact": "Глаголы на -ować часто заимствованы.",
+    "transcription": "pratsovach'"
+  },
+  {
+    "id": 68,
+    "word": "uczyć się",
+    "translation": "Учиться",
+    "description": "Получать знания, образование.",
+    "examples": [
+      "Uczę się polskiego. — Учу польский."
+    ],
+    "fun_fact": "Nauczyć się — выучить.",
+    "transcription": "uchych' shye"
+  },
+  {
+    "id": 69,
+    "word": "kochać",
+    "translation": "Любить",
+    "description": "Испытывать любовь к кому-то.",
+    "examples": [
+      "Kocham cię. — Люблю тебя."
+    ],
+    "fun_fact": "Самое романтичное слово!",
+    "transcription": "kohach'"
+  },
+  {
+    "id": 70,
+    "word": "lubić",
+    "translation": "Нравиться / любить (не романтично)",
+    "description": "Испытывать симпатию к чему-то.",
+    "examples": [
+      "Lubię kawę. — Люблю кофе."
+    ],
+    "fun_fact": "Для вещей используйте lubić, для людей — kochać.",
+    "transcription": "lubich'"
+  },
+  {
+    "id": 71,
+    "word": "chcieć",
+    "translation": "Хотеть",
+    "description": "Желать чего-то.",
+    "examples": [
+      "Chcę spać. — Хочу спать."
+    ],
+    "fun_fact": "Неправильный глагол с особыми формами.",
+    "transcription": "htshyech'"
+  },
+  {
+    "id": 72,
+    "word": "móc",
+    "translation": "Мочь / уметь",
+    "description": "Иметь возможность или способность.",
+    "examples": [
+      "Mogę pomóc. — Могу помочь."
+    ],
+    "fun_fact": "Могу — mogę, можешь — możesz.",
+    "transcription": "moots"
+  },
+  {
+    "id": 73,
+    "word": "musieć",
+    "translation": "Быть должным / обязанным",
+    "description": "Иметь обязанность что-то сделать.",
+    "examples": [
+      "Muszę iść. — Должен идти."
+    ],
+    "fun_fact": "Выражает необходимость.",
+    "transcription": "mushyech'"
+  },
+  {
+    "id": 74,
+    "word": "potrzebować",
+    "translation": "Нуждаться",
+    "description": "Иметь потребность в чём-то.",
+    "examples": [
+      "Potrzebuję pomocy. — Нуждаюсь в помощи."
+    ],
+    "fun_fact": "С родительным падежом.",
+    "transcription": "potshebovach'"
+  },
+  {
+    "id": 75,
+    "word": "znać",
+    "translation": "Знать (быть знакомым)",
+    "description": "Быть знакомым с кем-то или чем-то.",
+    "examples": [
+      "Znam Piotra. — Знаю Петра."
+    ],
+    "fun_fact": "Poznać — познакомиться.",
+    "transcription": "znach'"
+  },
+  {
+    "id": 76,
+    "word": "wiedzieć",
+    "translation": "Знать (информацию)",
+    "description": "Обладать информацией о чём-то.",
+    "examples": [
+      "Wiem, gdzie to jest. — Знаю, где это."
+    ],
+    "fun_fact": "Nie wiem — не знаю (очень частая фраза).",
+    "transcription": "vyedzech'"
+  },
+  {
+    "id": 77,
+    "word": "myśleć",
+    "translation": "Думать",
+    "description": "Размышлять о чём-то.",
+    "examples": [
+      "Myślę o tobie. — Думаю о тебе."
+    ],
+    "fun_fact": "Pomyśleć — подумать.",
+    "transcription": "myshlech'"
+  },
+  {
+    "id": 78,
+    "word": "wierzyć",
+    "translation": "Верить",
+    "description": "Доверять, полагать истинным.",
+    "examples": [
+      "Wierzę ci. — Верю тебе."
+    ],
+    "fun_fact": "Uwierzyć — поверить.",
+    "transcription": "vyezhych'"
+  },
+  {
+    "id": 79,
+    "word": "czuć",
+    "translation": "Чувствовать",
+    "description": "Ощущать эмоционально или физически.",
+    "examples": [
+      "Czuję się dobrze. — Чувствую себя хорошо."
+    ],
+    "fun_fact": "Poczuć — почувствовать.",
+    "transcription": "chuч'"
+  },
+  {
+    "id": 80,
+    "word": "śmiać się",
+    "translation": "Смеяться",
+    "description": "Издавать звуки веселья.",
+    "examples": [
+      "Śmieję się głośno. — Смеюсь громко."
+    ],
+    "fun_fact": "Śmiech — смех (существительное).",
+    "transcription": "shmyach' shye"
+  },
+  {
+    "id": 81,
+    "word": "płakać",
+    "translation": "Плакать",
+    "description": "Лить слёзы.",
+    "examples": [
+      "Dlaczego płaczesz? — Почему плачешь?"
+    ],
+    "fun_fact": "Zapłakać — заплакать.",
+    "transcription": "pwakach'"
+  },
+  {
+    "id": 82,
+    "word": "śpiewać",
+    "translation": "Петь",
+    "description": "Издавать музыкальные звуки голосом.",
+    "examples": [
+      "Śpiewam piosenk ę. — Пою песню."
+    ],
+    "fun_fact": "Zaśpiewać — спеть.",
+    "transcription": "shpyevach'"
+  },
+  {
+    "id": 83,
+    "word": "tańczyć",
+    "translation": "Танцевать",
+    "description": "Двигаться под музыку ритмично.",
+    "examples": [
+      "Tańczę z tobą. — Танцую с тобой."
+    ],
+    "fun_fact": "Zatańczyć — станцевать.",
+    "transcription": "tan'chych'"
+  },
+  {
+    "id": 84,
+    "word": "grać",
+    "translation": "Играть",
+    "description": "Участвовать в игре или играть на инструменте.",
+    "examples": [
+      "Gram w piłkę. — Играю в мяч."
+    ],
+    "fun_fact": "Zagrać — сыграть.",
+    "transcription": "grach'"
+  },
+  {
+    "id": 85,
+    "word": "kupować",
+    "translation": "Покупать",
+    "description": "Приобретать за деньги.",
+    "examples": [
+      "Kupuję chleb. — Покупаю хлеб."
+    ],
+    "fun_fact": "Kupić — купить.",
+    "transcription": "kupovach'"
+  },
+  {
+    "id": 86,
+    "word": "sprzedawać",
+    "translation": "Продавать",
+    "description": "Отдавать за деньги.",
+    "examples": [
+      "Sprzedaję samochód. — Продаю машину."
+    ],
+    "fun_fact": "Sprzedać — продать.",
+    "transcription": "spszedavach'"
+  },
+  {
+    "id": 87,
+    "word": "dawać",
+    "translation": "Давать",
+    "description": "Передавать что-то кому-то.",
+    "examples": [
+      "Daję ci książkę. — Даю тебе книгу."
+    ],
+    "fun_fact": "Dać — дать.",
+    "transcription": "davach'"
+  },
+  {
+    "id": 88,
+    "word": "brać",
+    "translation": "Брать",
+    "description": "Взять что-то в руки или владение.",
+    "examples": [
+      "Biorę jabłko. — Беру яблоко."
+    ],
+    "fun_fact": "Wziąć — взять (неправильная форма!).",
+    "transcription": "brach'"
+  },
+  {
+    "id": 89,
+    "word": "pokazywać",
+    "translation": "Показывать",
+    "description": "Демонстрировать что-то.",
+    "examples": [
+      "Pokazuję zdjęcie. — Показываю фото."
+    ],
+    "fun_fact": "Pokazać — показать.",
+    "transcription": "pokazyvach'"
+  },
+  {
+    "id": 90,
+    "word": "pytać",
+    "translation": "Спрашивать",
+    "description": "Задавать вопрос.",
+    "examples": [
+      "Pytam o drogę. — Спрашиваю о дороге."
+    ],
+    "fun_fact": "Zapytać / spytać — спросить.",
+    "transcription": "pytach'"
+  },
+  {
+    "id": 91,
+    "word": "odpowiadać",
+    "translation": "Отвечать",
+    "description": "Давать ответ на вопрос.",
+    "examples": [
+      "Odpowiadam na pytanie. — Отвечаю на вопрос."
+    ],
+    "fun_fact": "Odpowiedzieć — ответить.",
+    "transcription": "otpovyadach'"
+  },
+  {
+    "id": 92,
+    "word": "dzwonić",
+    "translation": "Звонить",
+    "description": "Звонить по телефону или в звонок.",
+    "examples": [
+      "Dzwonię do ciebie. — Звоню тебе."
+    ],
+    "fun_fact": "Zadzwonić — позвонить.",
+    "transcription": "dzvonich'"
+  },
+  {
+    "id": 93,
+    "word": "otwierać",
+    "translation": "Открывать",
+    "description": "Делать открытым.",
+    "examples": [
+      "Otwieram drzwi. — Открываю дверь."
+    ],
+    "fun_fact": "Otworzyć — открыть.",
+    "transcription": "otvyerach'"
+  },
+  {
+    "id": 94,
+    "word": "zamykać",
+    "translation": "Закрывать",
+    "description": "Делать закрытым.",
+    "examples": [
+      "Zamykam okno. — Закрываю окно."
+    ],
+    "fun_fact": "Zamknąć — закрыть.",
+    "transcription": "zamykach'"
+  },
+  {
+    "id": 95,
+    "word": "zaczynać",
+    "translation": "Начинать",
+    "description": "Приступать к чему-либо.",
+    "examples": [
+      "Zaczynam pracę. — Начинаю работу."
+    ],
+    "fun_fact": "Zacząć — начать.",
+    "transcription": "zachynach'"
+  },
+  {
+    "id": 96,
+    "word": "kończyć",
+    "translation": "Заканчивать",
+    "description": "Завершать что-либо.",
+    "examples": [
+      "Kończę lekcję. — Заканчиваю урок."
+    ],
+    "fun_fact": "Skończyć — закончить.",
+    "transcription": "kon'chych'"
+  },
+  {
+    "id": 97,
+    "word": "czas",
+    "translation": "Время",
+    "description": "Период или момент.",
+    "examples": [
+      "Nie mam czasu. — Нет времени."
+    ],
+    "fun_fact": "Która godzina? — Который час?",
+    "transcription": "chas"
+  },
+  {
+    "id": 98,
+    "word": "dzień",
+    "translation": "День",
+    "description": "Сутки или светлое время суток.",
+    "examples": [
+      "Piękny dzień. — Красивый день."
+    ],
+    "fun_fact": "Co dzień — каждый день.",
+    "transcription": "dzhen'"
+  },
+  {
+    "id": 99,
+    "word": "noc",
+    "translation": "Ночь",
+    "description": "Тёмное время суток.",
+    "examples": [
+      "Ciemna noc. — Тёмная ночь."
+    ],
+    "fun_fact": "W nocy — ночью.",
+    "transcription": "nots"
+  },
+  {
+    "id": 100,
+    "word": "rano",
+    "translation": "Утро",
+    "description": "Начало дня.",
+    "examples": [
+      "Rano wstaję. — Утром встаю."
+    ],
+    "fun_fact": "Dzisiaj rano — сегодня утром.",
+    "transcription": "rano"
+  },
+  {
+    "id": 101,
+    "word": "wieczór",
+    "translation": "Вечер",
+    "description": "Конец дня перед ночью.",
+    "examples": [
+      "Dobry wieczór. — Добрый вечер."
+    ],
+    "fun_fact": "Wieczorem — вечером.",
+    "transcription": "vyechoor"
+  },
+  {
+    "id": 102,
+    "word": "tydzień",
+    "translation": "Неделя",
+    "description": "Период из семи дней.",
+    "examples": [
+      "Za tydzień. — Через неделю."
+    ],
+    "fun_fact": "W tym tygodniu — на этой неделе.",
+    "transcription": "tydzhen'"
+  },
+  {
+    "id": 103,
+    "word": "miesiąc",
+    "translation": "Месяц",
+    "description": "Одна двенадцатая года.",
+    "examples": [
+      "Następny miesiąc. — Следующий месяц."
+    ],
+    "fun_fact": "W zeszłym miesiącu — в прошлом месяце.",
+    "transcription": "myeshyonts"
+  },
+  {
+    "id": 104,
+    "word": "rok",
+    "translation": "Год",
+    "description": "Период из 12 месяцев.",
+    "examples": [
+      "Nowy Rok. — Новый год."
+    ],
+    "fun_fact": "W przyszłym roku — в следующем году.",
+    "transcription": "rok"
+  },
+  {
+    "id": 105,
+    "word": "godzina",
+    "translation": "Час",
+    "description": "60 минут.",
+    "examples": [
+      "Jedna godzina. — Один час."
+    ],
+    "fun_fact": "Która godzina? — Который час?",
+    "transcription": "godzina"
+  },
+  {
+    "id": 106,
+    "word": "minuta",
+    "translation": "Минута",
+    "description": "60 секунд.",
+    "examples": [
+      "Pięć minut. — Пять минут."
+    ],
+    "fun_fact": "Za minutę — через минуту.",
+    "transcription": "minuta"
+  },
+  {
+    "id": 107,
+    "word": "sekunda",
+    "translation": "Секунда",
+    "description": "Базовая единица времени.",
+    "examples": [
+      "Jedna sekunda. — Одна секунда."
+    ],
+    "fun_fact": "W sekundę — в секунду.",
+    "transcription": "sekunda"
+  },
+  {
+    "id": 108,
+    "word": "dzisiaj",
+    "translation": "Сегодня",
+    "description": "В этот день.",
+    "examples": [
+      "Dzisiaj jest poniedziałek. — Сегодня понедельник."
+    ],
+    "fun_fact": "Разговорная форма — dziś.",
+    "transcription": "dzhishay"
+  },
+  {
+    "id": 109,
+    "word": "wczoraj",
+    "translation": "Вчера",
+    "description": "В предыдущий день.",
+    "examples": [
+      "Wczoraj byłem w kinie. — Вчера был в кино."
+    ],
+    "fun_fact": "Przedwczoraj — позавчера.",
+    "transcription": "vchoray"
+  },
+  {
+    "id": 110,
+    "word": "jutro",
+    "translation": "Завтра",
+    "description": "В следующий день.",
+    "examples": [
+      "Jutro zobaczę cię. — Завтра увижу тебя."
+    ],
+    "fun_fact": "Pojutrze — послезавтра.",
+    "transcription": "yutro"
+  },
+  {
+    "id": 111,
+    "word": "teraz",
+    "translation": "Сейчас / Теперь",
+    "description": "В настоящий момент.",
+    "examples": [
+      "Teraz rozumiem. — Теперь понимаю."
+    ],
+    "fun_fact": "Już teraz — уже сейчас.",
+    "transcription": "teraz"
+  },
+  {
+    "id": 112,
+    "word": "potem",
+    "translation": "Потом / Затем",
+    "description": "После этого.",
+    "examples": [
+      "Najpierw jem, potem pracuję. — Сначала ем, потом работаю."
+    ],
+    "fun_fact": "Później — позже.",
+    "transcription": "potem"
+  },
+  {
+    "id": 113,
+    "word": "zawsze",
+    "translation": "Всегда",
+    "description": "Постоянно, в любое время.",
+    "examples": [
+      "Zawsze cię kocham. — Всегда люблю тебя."
+    ],
+    "fun_fact": "Na zawsze — навсегда.",
+    "transcription": "zavshe"
+  },
+  {
+    "id": 114,
+    "word": "nigdy",
+    "translation": "Никогда",
+    "description": "Ни в какое время.",
+    "examples": [
+      "Nigdy nie mówię. — Никогда не говорю."
+    ],
+    "fun_fact": "Nigdy więcej — никогда больше.",
+    "transcription": "nigdy"
+  },
+  {
+    "id": 115,
+    "word": "często",
+    "translation": "Часто",
+    "description": "Много раз, регулярно.",
+    "examples": [
+      "Często czytam. — Часто читаю."
+    ],
+    "fun_fact": "Jak często? — Как часто?",
+    "transcription": "chensto"
+  },
+  {
+    "id": 116,
+    "word": "rzadko",
+    "translation": "Редко",
+    "description": "Нечасто.",
+    "examples": [
+      "Rzadko jem mięso. — Редко ем мясо."
+    ],
+    "fun_fact": "Очень редко — bardzo rzadko.",
+    "transcription": "zhatko"
+  },
+  {
+    "id": 117,
+    "word": "czasami",
+    "translation": "Иногда",
+    "description": "В некоторые моменты.",
+    "examples": [
+      "Czasami piszę. — Иногда пишу."
+    ],
+    "fun_fact": "Czasem — тоже значит 'иногда'.",
+    "transcription": "chasami"
+  },
+  {
+    "id": 118,
+    "word": "już",
+    "translation": "Уже",
+    "description": "К настоящему моменту.",
+    "examples": [
+      "Już jestem. — Уже здесь."
+    ],
+    "fun_fact": "Już nie — уже не.",
+    "transcription": "yuzh"
+  },
+  {
+    "id": 119,
+    "word": "jeszcze",
+    "translation": "Ещё",
+    "description": "Продолжается или дополнительно.",
+    "examples": [
+      "Jeszcze nie. — Ещё нет."
+    ],
+    "fun_fact": "Jeszcze raz — ещё раз.",
+    "transcription": "yeshche"
+  },
+  {
+    "id": 120,
+    "word": "tylko",
+    "translation": "Только",
+    "description": "Исключительно, лишь.",
+    "examples": [
+      "Tylko ty. — Только ты."
+    ],
+    "fun_fact": "Nie tylko — не только.",
+    "transcription": "tylko"
+  },
+  {
+    "id": 121,
+    "word": "też",
+    "translation": "Тоже / Также",
+    "description": "В дополнение.",
+    "examples": [
+      "Ja też. — Я тоже."
+    ],
+    "fun_fact": "Ja też nie — я тоже нет.",
+    "transcription": "tezh"
+  },
+  {
+    "id": 122,
+    "word": "bardzo",
+    "translation": "Очень",
+    "description": "В большой степени.",
+    "examples": [
+      "Bardzo dobrze. — Очень хорошо."
+    ],
+    "fun_fact": "Bardzo dziękuję — большое спасибо.",
+    "transcription": "bardzo"
+  },
+  {
+    "id": 123,
+    "word": "mało",
+    "translation": "Мало",
+    "description": "Небольшое количество.",
+    "examples": [
+      "Mało czasu. — Мало времени."
+    ],
+    "fun_fact": "За мало — za mało.",
+    "transcription": "mawo"
+  },
+  {
+    "id": 124,
+    "word": "dużo",
+    "translation": "Много",
+    "description": "Большое количество.",
+    "examples": [
+      "Dużo pracy. — Много работы."
+    ],
+    "fun_fact": "Bardzo dużo — очень много.",
+    "transcription": "duzho"
+  },
+  {
+    "id": 125,
+    "word": "trochę",
+    "translation": "Немного",
+    "description": "Небольшое количество.",
+    "examples": [
+      "Trochę wody. — Немного воды."
+    ],
+    "fun_fact": "Troszeczkę — совсем немножко.",
+    "transcription": "trohe"
+  },
+  {
+    "id": 126,
+    "word": "wszystko",
+    "translation": "Всё",
+    "description": "Полностью, целиком.",
+    "examples": [
+      "Wszystko dobrze. — Всё хорошо."
+    ],
+    "fun_fact": "Wszystko jedno — всё равно.",
+    "transcription": "fshystko"
+  },
+  {
+    "id": 127,
+    "word": "nic",
+    "translation": "Ничего",
+    "description": "Отсутствие чего-либо.",
+    "examples": [
+      "Nic nie wiem. — Ничего не знаю."
+    ],
+    "fun_fact": "Nic się nie stało — ничего не случилось.",
+    "transcription": "nits"
+  },
+  {
+    "id": 128,
+    "word": "coś",
+    "translation": "Что-то",
+    "description": "Нечто неопределённое.",
+    "examples": [
+      "Coś widzę. — Что-то вижу."
+    ],
+    "fun_fact": "Coś takiego! — Вот это да!",
+    "transcription": "tsosh'"
+  },
+  {
+    "id": 129,
+    "word": "ktoś",
+    "translation": "Кто-то",
+    "description": "Некий человек.",
+    "examples": [
+      "Ktoś przyszedł. — Кто-то пришёл."
+    ],
+    "fun_fact": "Ktoś tam — кто-то там.",
+    "transcription": "ktosh'"
+  },
+  {
+    "id": 130,
+    "word": "nikt",
+    "translation": "Никто",
+    "description": "Ни один человек.",
+    "examples": [
+      "Nikt nie wie. — Никто не знает."
+    ],
+    "fun_fact": "Nikt inny — никто другой.",
+    "transcription": "nikt"
+  },
+  {
+    "id": 131,
+    "word": "każdy",
+    "translation": "Каждый",
+    "description": "Все без исключения.",
+    "examples": [
+      "Każdy człowiek. — Каждый человек."
+    ],
+    "fun_fact": "Każdego dnia — каждого дня.",
+    "transcription": "kazhdy"
+  },
+  {
+    "id": 132,
+    "word": "inny",
+    "translation": "Другой / Иной",
+    "description": "Отличающийся.",
+    "examples": [
+      "Inna osoba. — Другой человек."
+    ],
+    "fun_fact": "Ktoś inny — кто-то другой.",
+    "transcription": "inny"
+  },
+  {
+    "id": 133,
+    "word": "taki",
+    "translation": "Такой",
+    "description": "Подобный, этот вид.",
+    "examples": [
+      "Taki piękny! — Такой красивый!"
+    ],
+    "fun_fact": "Coś takiego — что-то такое.",
+    "transcription": "taki"
+  },
+  {
+    "id": 134,
+    "word": "który",
+    "translation": "Который / Какой",
+    "description": "Вопросительное или относительное местоимение.",
+    "examples": [
+      "Który to? — Который это?"
+    ],
+    "fun_fact": "Która godzina? — Который час?",
+    "transcription": "ktoory"
+  },
+  {
+    "id": 135,
+    "word": "jaki",
+    "translation": "Какой",
+    "description": "Вопрос о качестве.",
+    "examples": [
+      "Jaki jest? — Какой он?"
+    ],
+    "fun_fact": "Jaki piękny! — Какой красивый!",
+    "transcription": "yaki"
+  },
+  {
+    "id": 136,
+    "word": "ten",
+    "translation": "Этот",
+    "description": "Указательное местоимение (муж. род).",
+    "examples": [
+      "Ten dom. — Этот дом."
+    ],
+    "fun_fact": "Ta (жен.), to (ср.) — та, это.",
+    "transcription": "ten"
+  },
+  {
+    "id": 137,
+    "word": "tamten",
+    "translation": "Тот",
+    "description": "Указывает на отдалённый предмет.",
+    "examples": [
+      "Tamten człowiek. — Тот человек."
+    ],
+    "fun_fact": "Tamta (жен.), tamto (ср.).",
+    "transcription": "tamten"
+  },
+  {
+    "id": 138,
+    "word": "tu",
+    "translation": "Тут / Здесь",
+    "description": "В этом месте.",
+    "examples": [
+      "Jestem tu. — Я здесь."
+    ],
+    "fun_fact": "Tutaj — тоже 'здесь', более разговорное.",
+    "transcription": "tu"
+  },
+  {
+    "id": 139,
+    "word": "tam",
+    "translation": "Там",
+    "description": "В том месте.",
+    "examples": [
+      "On jest tam. — Он там."
+    ],
+    "fun_fact": "Tam i z powrotem — туда и обратно.",
+    "transcription": "tam"
+  },
+  {
+    "id": 140,
+    "word": "tutaj",
+    "translation": "Здесь",
+    "description": "В этом месте (разговорное).",
+    "examples": [
+      "Tutaj mieszkam. — Здесь живу."
+    ],
+    "fun_fact": "Синоним 'tu'.",
+    "transcription": "tutay"
+  },
+  {
+    "id": 141,
+    "word": "wszędzie",
+    "translation": "Везде",
+    "description": "Во всех местах.",
+    "examples": [
+      "Wszędzie cię szukam. — Везде тебя ищу."
+    ],
+    "fun_fact": "Na całym świecie — по всему миру.",
+    "transcription": "fshendzhe"
+  },
+  {
+    "id": 142,
+    "word": "nigdzie",
+    "translation": "Нигде",
+    "description": "Ни в каком месте.",
+    "examples": [
+      "Nigdzie nie idę. — Никуда не иду."
+    ],
+    "fun_fact": "Nigdzie indziej — нигде больше.",
+    "transcription": "nigdzhe"
+  },
+  {
+    "id": 143,
+    "word": "duży",
+    "translation": "Большой",
+    "description": "Значительного размера.",
+    "examples": [
+      "Duży dom. — Большой дом."
+    ],
+    "fun_fact": "Większy — больше (сравнительная степень).",
+    "transcription": "duzhy"
+  },
+  {
+    "id": 144,
+    "word": "mały",
+    "translation": "Маленький",
+    "description": "Небольшого размера.",
+    "examples": [
+      "Mały chłopiec. — Маленький мальчик."
+    ],
+    "fun_fact": "Mniejszy — меньше.",
+    "transcription": "mawy"
+  },
+  {
+    "id": 145,
+    "word": "długi",
+    "translation": "Длинный",
+    "description": "Большой длины.",
+    "examples": [
+      "Długa droga. — Длинная дорога."
+    ],
+    "fun_fact": "Dłuższy — длиннее.",
+    "transcription": "dwugi"
+  },
+  {
+    "id": 146,
+    "word": "krótki",
+    "translation": "Короткий",
+    "description": "Малой длины.",
+    "examples": [
+      "Krótkie włosy. — Короткие волосы."
+    ],
+    "fun_fact": "Krótszy — короче.",
+    "transcription": "krootki"
+  },
+  {
+    "id": 147,
+    "word": "wysoki",
+    "translation": "Высокий",
+    "description": "Большой высоты.",
+    "examples": [
+      "Wysoki mężczyzna. — Высокий мужчина."
+    ],
+    "fun_fact": "Wyższy — выше.",
+    "transcription": "vysoki"
+  },
+  {
+    "id": 148,
+    "word": "niski",
+    "translation": "Низкий",
+    "description": "Малой высоты.",
+    "examples": [
+      "Niski stół. — Низкий стол."
+    ],
+    "fun_fact": "Niższy — ниже.",
+    "transcription": "niski"
+  },
+  {
+    "id": 149,
+    "word": "szeroki",
+    "translation": "Широкий",
+    "description": "Большой ширины.",
+    "examples": [
+      "Szeroka ulica. — Широкая улица."
+    ],
+    "fun_fact": "Szerszy — шире.",
+    "transcription": "sheroki"
+  },
+  {
+    "id": 150,
+    "word": "wąski",
+    "translation": "Узкий",
+    "description": "Малой ширины.",
+    "examples": [
+      "Wąska droga. — Узкая дорога."
+    ],
+    "fun_fact": "Węższy — уже.",
+    "transcription": "vonski"
+  },
+  {
+    "id": 151,
+    "word": "gruby",
+    "translation": "Толстый / Полный",
+    "description": "Большой толщины или полноты.",
+    "examples": [
+      "Gruba książka. — Толстая книга."
+    ],
+    "fun_fact": "Grubszy — толще.",
+    "transcription": "gruby"
+  },
+  {
+    "id": 152,
+    "word": "cienki",
+    "translation": "Тонкий",
+    "description": "Малой толщины.",
+    "examples": [
+      "Cienki papier. — Тонкая бумага."
+    ],
+    "fun_fact": "Cieńszy — тоньше.",
+    "transcription": "tsyenki"
+  },
+  {
+    "id": 153,
+    "word": "stary",
+    "translation": "Старый",
+    "description": "Возрастной или древний.",
+    "examples": [
+      "Stary człowiek. — Старый человек."
+    ],
+    "fun_fact": "Starszy — старше.",
+    "transcription": "stary"
+  },
+  {
+    "id": 154,
+    "word": "młody",
+    "translation": "Молодой",
+    "description": "Небольшого возраста.",
+    "examples": [
+      "Młoda kobieta. — Молодая женщина."
+    ],
+    "fun_fact": "Młodszy — моложе.",
+    "transcription": "mwody"
+  },
+  {
+    "id": 155,
+    "word": "nowy",
+    "translation": "Новый",
+    "description": "Недавно созданный или приобретённый.",
+    "examples": [
+      "Nowy samochód. — Новая машина."
+    ],
+    "fun_fact": "Nowszy — новее.",
+    "transcription": "novy"
+  },
+  {
+    "id": 156,
+    "word": "piękny",
+    "translation": "Красивый",
+    "description": "Приятный внешне.",
+    "examples": [
+      "Piękna dziewczyna. — Красивая девушка."
+    ],
+    "fun_fact": "Piękniejszy — красивее.",
+    "transcription": "pyenkny"
+  },
+  {
+    "id": 157,
+    "word": "brzydki",
+    "translation": "Некрасивый",
+    "description": "Неприятный внешне.",
+    "examples": [
+      "Brzydki budynek. — Некрасивое здание."
+    ],
+    "fun_fact": "Brzydszy — более некрасивый.",
+    "transcription": "bzhydki"
+  },
+  {
+    "id": 158,
+    "word": "dobry",
+    "translation": "Хороший",
+    "description": "Положительного качества.",
+    "examples": [
+      "Dobry człowiek. — Хороший человек."
+    ],
+    "fun_fact": "Lepszy — лучше.",
+    "transcription": "dobry"
+  },
+  {
+    "id": 159,
+    "word": "zły",
+    "translation": "Плохой / Злой",
+    "description": "Отрицательного качества.",
+    "examples": [
+      "Zły człowiek. — Злой человек."
+    ],
+    "fun_fact": "Gorszy — хуже.",
+    "transcription": "zwy"
+  },
+  {
+    "id": 160,
+    "word": "miły",
+    "translation": "Милый / Приятный",
+    "description": "Вызывающий симпатию.",
+    "examples": [
+      "Miła osoba. — Милый человек."
+    ],
+    "fun_fact": "Milszy — милее.",
+    "transcription": "miwy"
+  },
+  {
+    "id": 161,
+    "word": "mądry",
+    "translation": "Умный",
+    "description": "Обладающий умом.",
+    "examples": [
+      "Mądry człowiek. — Умный человек."
+    ],
+    "fun_fact": "Mądrzejszy — умнее.",
+    "transcription": "mondry"
+  },
+  {
+    "id": 162,
+    "word": "głupi",
+    "translation": "Глупый",
+    "description": "Не обладающий умом.",
+    "examples": [
+      "Głupie pytanie. — Глупый вопрос."
+    ],
+    "fun_fact": "Głupszy — глупее.",
+    "transcription": "gwupi"
+  },
+  {
+    "id": 163,
+    "word": "silny",
+    "translation": "Сильный",
+    "description": "Обладающий силой.",
+    "examples": [
+      "Silny mężczyzna. — Сильный мужчина."
+    ],
+    "fun_fact": "Silniejszy — сильнее.",
+    "transcription": "shilny"
+  },
+  {
+    "id": 164,
+    "word": "słaby",
+    "translation": "Слабый",
+    "description": "Не обладающий силой.",
+    "examples": [
+      "Słaby człowiek. — Слабый человек."
+    ],
+    "fun_fact": "Słabszy — слабее.",
+    "transcription": "swavy"
+  },
+  {
+    "id": 165,
+    "word": "szybki",
+    "translation": "Быстрый",
+    "description": "Высокой скорости.",
+    "examples": [
+      "Szybki samochód. — Быстрая машина."
+    ],
+    "fun_fact": "Szybszy — быстрее.",
+    "transcription": "shybki"
+  },
+  {
+    "id": 166,
+    "word": "wolny",
+    "translation": "Медленный / Свободный",
+    "description": "Низкой скорости или не занятый.",
+    "examples": [
+      "Wolny czas. — Свободное время."
+    ],
+    "fun_fact": "Wolniejszy — медленнее.",
+    "transcription": "volny"
+  },
+  {
+    "id": 167,
+    "word": "bogaty",
+    "translation": "Богатый",
+    "description": "Обладающий богатством.",
+    "examples": [
+      "Bogaty człowiek. — Богатый человек."
+    ],
+    "fun_fact": "Bogatszy — богаче.",
+    "transcription": "bogaty"
+  },
+  {
+    "id": 168,
+    "word": "biedny",
+    "translation": "Бедный",
+    "description": "Не обладающий богатством.",
+    "examples": [
+      "Biedna rodzina. — Бедная семья."
+    ],
+    "fun_fact": "Biedniejszy — беднее.",
+    "transcription": "byedny"
+  },
+  {
+    "id": 169,
+    "word": "szczęśliwy",
+    "translation": "Счастливый",
+    "description": "Испытывающий счастье.",
+    "examples": [
+      "Szczęśliwy człowiek. — Счастливый человек."
+    ],
+    "fun_fact": "Szczęśliwszy — счастливее.",
+    "transcription": "shchenshlivy"
+  },
+  {
+    "id": 170,
+    "word": "smutny",
+    "translation": "Грустный",
+    "description": "Испытывающий грусть.",
+    "examples": [
+      "Smutna muzyka. — Грустная музыка."
+    ],
+    "fun_fact": "Smutniejszy — грустнее.",
+    "transcription": "smutny"
+  },
+  {
+    "id": 171,
+    "word": "wesoły",
+    "translation": "Весёлый",
+    "description": "Радостный, жизнерадостный.",
+    "examples": [
+      "Wesoły człowiek. — Весёлый человек."
+    ],
+    "fun_fact": "Weselszy — веселее.",
+    "transcription": "vesowy"
+  },
+  {
+    "id": 172,
+    "word": "zimny",
+    "translation": "Холодный",
+    "description": "Низкой температуры.",
+    "examples": [
+      "Zimna woda. — Холодная вода."
+    ],
+    "fun_fact": "Zimniej — холоднее.",
+    "transcription": "zhimny"
+  },
+  {
+    "id": 173,
+    "word": "ciepły",
+    "translation": "Тёплый",
+    "description": "Умеренно горячий.",
+    "examples": [
+      "Ciepła herbata. — Тёплый чай."
+    ],
+    "fun_fact": "Cieplej — теплее.",
+    "transcription": "tsyepwy"
+  },
+  {
+    "id": 174,
+    "word": "gorący",
+    "translation": "Горячий",
+    "description": "Высокой температуры.",
+    "examples": [
+      "Gorąca kawa. — Горячий кофе."
+    ],
+    "fun_fact": "Goręcej — горячее.",
+    "transcription": "goroncy"
+  },
+  {
+    "id": 175,
+    "word": "biały",
+    "translation": "Белый",
+    "description": "Цвета снега.",
+    "examples": [
+      "Biały śnieg. — Белый снег."
+    ],
+    "fun_fact": "Bielszy — белее.",
+    "transcription": "byawy"
+  },
+  {
+    "id": 176,
+    "word": "czarny",
+    "translation": "Чёрный",
+    "description": "Цвета ночи.",
+    "examples": [
+      "Czarny kot. — Чёрный кот."
+    ],
+    "fun_fact": "Czarniejszy — чернее.",
+    "transcription": "charny"
+  },
+  {
+    "id": 177,
+    "word": "czerwony",
+    "translation": "Красный",
+    "description": "Цвета крови.",
+    "examples": [
+      "Czerwona róża. — Красная роза."
+    ],
+    "fun_fact": "Czerwieńszy — краснее.",
+    "transcription": "chervony"
+  },
+  {
+    "id": 178,
+    "word": "zielony",
+    "translation": "Зелёный",
+    "description": "Цвета травы.",
+    "examples": [
+      "Zielona trawa. — Зелёная трава."
+    ],
+    "fun_fact": "Zieleńszy — зеленее.",
+    "transcription": "zhelony"
+  },
+  {
+    "id": 179,
+    "word": "niebieski",
+    "translation": "Синий / Голубой",
+    "description": "Цвета неба.",
+    "examples": [
+      "Niebieskie niebo. — Голубое небо."
+    ],
+    "fun_fact": "Niebieski od 'niebo' (небо).",
+    "transcription": "nyebyeski"
+  },
+  {
+    "id": 180,
+    "word": "żółty",
+    "translation": "Жёлтый",
+    "description": "Цвета солнца.",
+    "examples": [
+      "Żółty kwiat. — Жёлтый цветок."
+    ],
+    "fun_fact": "Żółciej — желтее.",
+    "transcription": "zhoowty"
+  },
+  {
+    "id": 181,
+    "word": "pomarańczowy",
+    "translation": "Оранжевый",
+    "description": "Цвета апельсина.",
+    "examples": [
+      "Pomarańczowy owoc. — Оранжевый фрукт."
+    ],
+    "fun_fact": "Pomarańcza — апельсин.",
+    "transcription": "pomaran'chovy"
+  },
+  {
+    "id": 182,
+    "word": "różowy",
+    "translation": "Розовый",
+    "description": "Светло-красный цвет.",
+    "examples": [
+      "Różowa sukienka. — Розовое платье."
+    ],
+    "fun_fact": "Róża — роза.",
+    "transcription": "roozhovy"
+  },
+  {
+    "id": 183,
+    "word": "brązowy",
+    "translation": "Коричневый",
+    "description": "Цвета дерева.",
+    "examples": [
+      "Brązowe oczy. — Карие глаза."
+    ],
+    "fun_fact": "Brązowszy — коричневее.",
+    "transcription": "bronzovy"
+  },
+  {
+    "id": 184,
+    "word": "szary",
+    "translation": "Серый",
+    "description": "Цвет между белым и чёрным.",
+    "examples": [
+      "Szary dzień. — Серый день."
+    ],
+    "fun_fact": "Szarszy — серее.",
+    "transcription": "shary"
+  },
+  {
+    "id": 185,
+    "word": "jeden",
+    "translation": "Один",
+    "description": "Числительное 1.",
+    "examples": [
+      "Jeden dom. — Один дом."
+    ],
+    "fun_fact": "Jedna (жен.), jedno (ср.).",
+    "transcription": "yeden"
+  },
+  {
+    "id": 186,
+    "word": "dwa",
+    "translation": "Два",
+    "description": "Числительное 2.",
+    "examples": [
+      "Dwa domy. — Два дома."
+    ],
+    "fun_fact": "Dwie (жен.) — две.",
+    "transcription": "dva"
+  },
+  {
+    "id": 187,
+    "word": "trzy",
+    "translation": "Три",
+    "description": "Числительное 3.",
+    "examples": [
+      "Trzy jabłka. — Три яблока."
+    ],
+    "fun_fact": "Trzeci — третий.",
+    "transcription": "tshy"
+  },
+  {
+    "id": 188,
+    "word": "cztery",
+    "translation": "Четыре",
+    "description": "Числительное 4.",
+    "examples": [
+      "Cztery osoby. — Четыре человека."
+    ],
+    "fun_fact": "Czwarty — четвёртый.",
+    "transcription": "chtery"
+  },
+  {
+    "id": 189,
+    "word": "pięć",
+    "translation": "Пять",
+    "description": "Числительное 5.",
+    "examples": [
+      "Pięć złotych. — Пять злотых."
+    ],
+    "fun_fact": "Piąty — пятый.",
+    "transcription": "pyench'"
+  },
+  {
+    "id": 190,
+    "word": "sześć",
+    "translation": "Шесть",
+    "description": "Числительное 6.",
+    "examples": [
+      "Sześć miesięcy. — Шесть месяцев."
+    ],
+    "fun_fact": "Szósty — шестой.",
+    "transcription": "sheshch'"
+  },
+  {
+    "id": 191,
+    "word": "siedem",
+    "translation": "Семь",
+    "description": "Числительное 7.",
+    "examples": [
+      "Siedem dni. — Семь дней."
+    ],
+    "fun_fact": "Siódmy — седьмой.",
+    "transcription": "shyedem"
+  },
+  {
+    "id": 192,
+    "word": "osiem",
+    "translation": "Восемь",
+    "description": "Числительное 8.",
+    "examples": [
+      "Osiem godzin. — Восемь часов."
+    ],
+    "fun_fact": "Ósmy — восьмой.",
+    "transcription": "oshem"
+  },
+  {
+    "id": 193,
+    "word": "dziewięć",
+    "translation": "Девять",
+    "description": "Числительное 9.",
+    "examples": [
+      "Dziewięć lat. — Девять лет."
+    ],
+    "fun_fact": "Dziewiąty — девятый.",
+    "transcription": "dzhevyench'"
+  },
+  {
+    "id": 194,
+    "word": "dziesięć",
+    "translation": "Десять",
+    "description": "Числительное 10.",
+    "examples": [
+      "Dziesięć razy. — Десять раз."
+    ],
+    "fun_fact": "Dziesiąty — десятый.",
+    "transcription": "dzheshyench'"
+  },
+  {
+    "id": 195,
+    "word": "dwadzieścia",
+    "translation": "Двадцать",
+    "description": "Числительное 20.",
+    "examples": [
+      "Dwadzieścia złotych. — Двадцать злотых."
+    ],
+    "fun_fact": "Dwudziesty — двадцатый.",
+    "transcription": "dvadzheshcha"
+  },
+  {
+    "id": 196,
+    "word": "trzydzieści",
+    "translation": "Тридцать",
+    "description": "Числительное 30.",
+    "examples": [
+      "Trzydzieści lat. — Тридцать лет."
+    ],
+    "fun_fact": "Trzydziesty — тридцатый.",
+    "transcription": "tshydzheshchi"
+  },
+  {
+    "id": 197,
+    "word": "sto",
+    "translation": "Сто",
+    "description": "Числительное 100.",
+    "examples": [
+      "Sto procent. — Сто процентов."
+    ],
+    "fun_fact": "Setny — сотый.",
+    "transcription": "sto"
+  },
+  {
+    "id": 198,
+    "word": "tysiąc",
+    "translation": "Тысяча",
+    "description": "Числительное 1000.",
+    "examples": [
+      "Tysiąc złotych. — Тысяча злотых."
+    ],
+    "fun_fact": "Tysięczny — тысячный.",
+    "transcription": "tyshonts"
+  },
+  {
+    "id": 199,
+    "word": "milion",
+    "translation": "Миллион",
+    "description": "Числительное 1,000,000.",
+    "examples": [
+      "Milion ludzi. — Миллион людей."
+    ],
+    "fun_fact": "Milioner — миллионер.",
+    "transcription": "milion"
+  },
+  {
+    "id": 200,
+    "word": "woda",
+    "translation": "Вода",
+    "description": "Жидкость H2O.",
+    "examples": [
+      "Piję wodę. — Пью воду."
+    ],
+    "fun_fact": "Woda mineralna — минеральная вода.",
+    "transcription": "voda"
+  },
+  {
+    "id": 201,
+    "word": "jedzenie",
+    "translation": "Еда",
+    "description": "Пища, продукты питания.",
+    "examples": [
+      "Dobre jedzenie. — Хорошая еда."
+    ],
+    "fun_fact": "Jeść — есть (глагол).",
+    "transcription": "yedzenie"
+  },
+  {
+    "id": 202,
+    "word": "chleb",
+    "translation": "Хлеб",
+    "description": "Основной продукт питания.",
+    "examples": [
+      "Kupuję chleb. — Покупаю хлеб."
+    ],
+    "fun_fact": "Polski chleb — очень вкусный!",
+    "transcription": "hleb"
+  },
+  {
+    "id": 203,
+    "word": "mięso",
+    "translation": "Мясо",
+    "description": "Продукт животного происхождения.",
+    "examples": [
+      "Jem mięso. — Ем мясо."
+    ],
+    "fun_fact": "Mięso wieprzowe — свинина.",
+    "transcription": "myenso"
+  },
+  {
+    "id": 204,
+    "word": "ryba",
+    "translation": "Рыба",
+    "description": "Водное животное или его мясо.",
+    "examples": [
+      "Łowię rybę. — Ловлю рыбу."
+    ],
+    "fun_fact": "Ryby są zdrowe — рыба полезна.",
+    "transcription": "ryba"
+  },
+  {
+    "id": 205,
+    "word": "mleko",
+    "translation": "Молоко",
+    "description": "Напиток животного происхождения.",
+    "examples": [
+      "Piję mleko. — Пью молоко."
+    ],
+    "fun_fact": "Mleko krowie — коровье молоко.",
+    "transcription": "mleko"
+  },
+  {
+    "id": 206,
+    "word": "ser",
+    "translation": "Сыр",
+    "description": "Молочный продукт.",
+    "examples": [
+      "Jem ser. — Ем сыр."
+    ],
+    "fun_fact": "Polski ser — польский сыр очень вкусный!",
+    "transcription": "ser"
+  },
+  {
+    "id": 207,
+    "word": "masło",
+    "translation": "Масло (сливочное)",
+    "description": "Жирный молочный продукт.",
+    "examples": [
+      "Chleb z masłem. — Хлеб с маслом."
+    ],
+    "fun_fact": "Masło na głowę — масло на голову (идиома).",
+    "transcription": "maswo"
+  },
+  {
+    "id": 208,
+    "word": "jajko",
+    "translation": "Яйцо",
+    "description": "Продукт от курицы.",
+    "examples": [
+      "Jem jajko. — Ем яйцо."
+    ],
+    "fun_fact": "Jajka sadzone — яичница.",
+    "transcription": "yayko"
+  },
+  {
+    "id": 209,
+    "word": "owoce",
+    "translation": "Фрукты",
+    "description": "Сладкие плоды растений.",
+    "examples": [
+      "Jem owoce. — Ем фрукты."
+    ],
+    "fun_fact": "Единственное число — owoc.",
+    "transcription": "ovotse"
+  },
+  {
+    "id": 210,
+    "word": "warzywa",
+    "translation": "Овощи",
+    "description": "Съедобные части растений.",
+    "examples": [
+      "Jem warzywa. — Ем овощи."
+    ],
+    "fun_fact": "Единственное число — warzywo.",
+    "transcription": "vazhyva"
+  },
+  {
+    "id": 211,
+    "word": "jabłko",
+    "translation": "Яблоко",
+    "description": "Популярный фрукт.",
+    "examples": [
+      "Jem jabłko. — Ем яблоко."
+    ],
+    "fun_fact": "Jabłko dziennie — яблоко в день.",
+    "transcription": "yabwko"
+  },
+  {
+    "id": 212,
+    "word": "banan",
+    "translation": "Банан",
+    "description": "Тропический фрукт.",
+    "examples": [
+      "Lubię banany. — Люблю бананы."
+    ],
+    "fun_fact": "Żółty jak banan — жёлтый как банан.",
+    "transcription": "banan"
+  },
+  {
+    "id": 213,
+    "word": "pomarańcza",
+    "translation": "Апельсин",
+    "description": "Цитрусовый фрукт.",
+    "examples": [
+      "Sok z pomarańczy. — Апельсиновый сок."
+    ],
+    "fun_fact": "Pomarańczowy — оранжевый.",
+    "transcription": "pomaran'cha"
+  },
+  {
+    "id": 214,
+    "word": "pomidor",
+    "translation": "Помидор",
+    "description": "Красный овощ/фрукт.",
+    "examples": [
+      "Czerwony pomidor. — Красный помидор."
+    ],
+    "fun_fact": "Технически фрукт!",
+    "transcription": "pomidor"
+  },
+  {
+    "id": 215,
+    "word": "ziemniak",
+    "translation": "Картофель",
+    "description": "Основной овощ в Польше.",
+    "examples": [
+      "Gotowane ziemniaki. — Варёный картофель."
+    ],
+    "fun_fact": "Ziemniaki — основа польской кухни!",
+    "transcription": "zhemnyak"
+  },
+  {
+    "id": 216,
+    "word": "cukier",
+    "translation": "Сахар",
+    "description": "Сладкое вещество.",
+    "examples": [
+      "Kawa z cukrem. — Кофе с сахаром."
+    ],
+    "fun_fact": "Cukier trzcinowy — тростниковый сахар.",
+    "transcription": "tsukyer"
+  },
+  {
+    "id": 217,
+    "word": "sól",
+    "translation": "Соль",
+    "description": "Приправа для еды.",
+    "examples": [
+      "Sól i pieprz. — Соль и перец."
+    ],
+    "fun_fact": "Sól kuchenna — поваренная соль.",
+    "transcription": "sool"
+  },
+  {
+    "id": 218,
+    "word": "kawa",
+    "translation": "Кофе",
+    "description": "Популярный напиток.",
+    "examples": [
+      "Piję kawę. — Пью кофе."
+    ],
+    "fun_fact": "Поляки пьют много кофе!",
+    "transcription": "kava"
+  },
+  {
+    "id": 219,
+    "word": "herbata",
+    "translation": "Чай",
+    "description": "Горячий напиток из листьев.",
+    "examples": [
+      "Piję herbatę. — Пью чай."
+    ],
+    "fun_fact": "Herbata z cytryną — чай с лимоном.",
+    "transcription": "herbata"
+  },
+  {
+    "id": 220,
+    "word": "sok",
+    "translation": "Сок",
+    "description": "Напиток из фруктов.",
+    "examples": [
+      "Sok jabłkowy. — Яблочный сок."
+    ],
+    "fun_fact": "Sok pomarańczowy — апельсиновый сок.",
+    "transcription": "sok"
+  },
+  {
+    "id": 221,
+    "word": "piwo",
+    "translation": "Пиво",
+    "description": "Алкогольный напиток.",
+    "examples": [
+      "Piję piwo. — Пью пиво."
+    ],
+    "fun_fact": "Польское пиво очень популярно!",
+    "transcription": "pivo"
+  },
+  {
+    "id": 222,
+    "word": "wino",
+    "translation": "Вино",
+    "description": "Алкогольный напиток из винограда.",
+    "examples": [
+      "Czerwone wino. — Красное вино."
+    ],
+    "fun_fact": "Wino białe — белое вино.",
+    "transcription": "vino"
+  },
+  {
+    "id": 223,
+    "word": "restauracja",
+    "translation": "Ресторан",
+    "description": "Место для еды вне дома.",
+    "examples": [
+      "Idziemy do restauracji. — Идём в ресторан."
+    ],
+    "fun_fact": "Restauracja włoska — итальянский ресторан.",
+    "transcription": "restauratsya"
+  },
+  {
+    "id": 224,
+    "word": "sklep",
+    "translation": "Магазин",
+    "description": "Место для покупок.",
+    "examples": [
+      "Idę do sklepu. — Иду в магазин."
+    ],
+    "fun_fact": "Sklep spożywczy — продуктовый магазин.",
+    "transcription": "sklep"
+  },
+  {
+    "id": 225,
+    "word": "apteka",
+    "translation": "Аптека",
+    "description": "Место продажи лекарств.",
+    "examples": [
+      "Kupuję leki w aptece. — Покупаю лекарства в аптеке."
+    ],
+    "fun_fact": "Apteka 24h — круглосуточная аптека.",
+    "transcription": "apteka"
+  },
+  {
+    "id": 226,
+    "word": "bank",
+    "translation": "Банк",
+    "description": "Финансовое учреждение.",
+    "examples": [
+      "Idę do banku. — Иду в банк."
+    ],
+    "fun_fact": "Konto bankowe — банковский счёт.",
+    "transcription": "bank"
+  },
+  {
+    "id": 227,
+    "word": "poczta",
+    "translation": "Почта",
+    "description": "Место отправки писем и посылок.",
+    "examples": [
+      "Wysyłam list na poczcie. — Отправляю письмо на почте."
+    ],
+    "fun_fact": "Poczta Polska — Польская почта.",
+    "transcription": "pochta"
+  },
+  {
+    "id": 228,
+    "word": "hotel",
+    "translation": "Отель",
+    "description": "Место для ночлега.",
+    "examples": [
+      "Mieszkam w hotelu. — Живу в отеле."
+    ],
+    "fun_fact": "Hotel pięciogwiazdkowy — пятизвёздочный отель.",
+    "transcription": "hotel"
+  },
+  {
+    "id": 229,
+    "word": "lotnisko",
+    "translation": "Аэропорт",
+    "description": "Место прибытия и отправления самолётов.",
+    "examples": [
+      "Jadę na lotnisko. — Еду в аэропорт."
+    ],
+    "fun_fact": "Lotnisko Chopina — аэропорт Шопена.",
+    "transcription": "lotnisko"
+  },
+  {
+    "id": 230,
+    "word": "dworzec",
+    "translation": "Вокзал",
+    "description": "Место прибытия и отправления поездов.",
+    "examples": [
+      "Jestem na dworcu. — Я на вокзале."
+    ],
+    "fun_fact": "Dworzec główny — центральный вокзал.",
+    "transcription": "dvozhet s"
+  },
+  {
+    "id": 231,
+    "word": "ulica",
+    "translation": "Улица",
+    "description": "Дорога в городе.",
+    "examples": [
+      "Mieszkam przy ulicy Polnej. — Живу на улице Польной."
+    ],
+    "fun_fact": "Główna ulica — главная улица.",
+    "transcription": "ulitsa"
+  },
+  {
+    "id": 232,
+    "word": "miasto",
+    "translation": "Город",
+    "description": "Крупный населённый пункт.",
+    "examples": [
+      "Duże miasto. — Большой город."
+    ],
+    "fun_fact": "Centrum miasta — центр города.",
+    "transcription": "myasto"
+  },
+  {
+    "id": 233,
+    "word": "wieś",
+    "translation": "Деревня",
+    "description": "Сельский населённый пункт.",
+    "examples": [
+      "Mieszkam na wsi. — Живу в деревне."
+    ],
+    "fun_fact": "Na wsi jest spokojnie — в деревне спокойно.",
+    "transcription": "vyesh'"
+  },
+  {
+    "id": 234,
+    "word": "kraj",
+    "translation": "Страна",
+    "description": "Государство.",
+    "examples": [
+      "Mój kraj. — Моя страна."
+    ],
+    "fun_fact": "Polska to piękny kraj — Польша красивая страна.",
+    "transcription": "kray"
+  },
+  {
+    "id": 235,
+    "word": "świat",
+    "translation": "Мир",
+    "description": "Планета Земля, вселенная.",
+    "examples": [
+      "Cały świat. — Весь мир."
+    ],
+    "fun_fact": "Na całym świecie — по всему миру.",
+    "transcription": "shvyat"
+  },
+  {
+    "id": 236,
+    "word": "pogoda",
+    "translation": "Погода",
+    "description": "Состояние атмосферы.",
+    "examples": [
+      "Dobra pogoda. — Хорошая погода."
+    ],
+    "fun_fact": "Jaka jest pogoda? — Какая погода?",
+    "transcription": "pogoda"
+  },
+  {
+    "id": 237,
+    "word": "słońce",
+    "translation": "Солнце",
+    "description": "Звезда в центре Солнечной системы.",
+    "examples": [
+      "Świeci słońce. — Светит солнце."
+    ],
+    "fun_fact": "Słoneczny dzień — солнечный день.",
+    "transcription": "swon'tse"
+  },
+  {
+    "id": 238,
+    "word": "deszcz",
+    "translation": "Дождь",
+    "description": "Атмосферные осадки.",
+    "examples": [
+      "Pada deszcz. — Идёт дождь."
+    ],
+    "fun_fact": "Deszczowy dzień — дождливый день.",
+    "transcription": "deshch"
+  },
+  {
+    "id": 239,
+    "word": "śnieg",
+    "translation": "Снег",
+    "description": "Замёрзшие осадки.",
+    "examples": [
+      "Pada śnieg. — Идёт снег."
+    ],
+    "fun_fact": "Biały śnieg — белый снег.",
+    "transcription": "shnyeg"
+  },
+  {
+    "id": 240,
+    "word": "wiatr",
+    "translation": "Ветер",
+    "description": "Движение воздуха.",
+    "examples": [
+      "Silny wiatr. — Сильный ветер."
+    ],
+    "fun_fact": "Wieje wiatr — дует ветер.",
+    "transcription": "vyatr"
+  },
+  {
+    "id": 241,
+    "word": "niebo",
+    "translation": "Небо",
+    "description": "Пространство над Землёй.",
+    "examples": [
+      "Niebieskie niebo. — Голубое небо."
+    ],
+    "fun_fact": "Niebieski — голубой (от 'niebo').",
+    "transcription": "nyebo"
+  },
+  {
+    "id": 242,
+    "word": "ziemia",
+    "translation": "Земля",
+    "description": "Планета или почва.",
+    "examples": [
+      "Nasza Ziemia. — Наша Земля."
+    ],
+    "fun_fact": "Ziemia jest okrągła — Земля круглая.",
+    "transcription": "zhemya"
+  },
+  {
+    "id": 243,
+    "word": "morze",
+    "translation": "Море",
+    "description": "Большой водоём с солёной водой.",
+    "examples": [
+      "Nad morzem. — У моря."
+    ],
+    "fun_fact": "Morze Bałtyckie — Балтийское море.",
+    "transcription": "mozhe"
+  },
+  {
+    "id": 244,
+    "word": "rzeka",
+    "translation": "Река",
+    "description": "Водный поток.",
+    "examples": [
+      "Wisła to rzeka. — Висла это река."
+    ],
+    "fun_fact": "Wisła — самая длинная река Польши.",
+    "transcription": "zheka"
+  },
+  {
+    "id": 245,
+    "word": "góra",
+    "translation": "Гора",
+    "description": "Возвышенность.",
+    "examples": [
+      "Wysoka góra. — Высокая гора."
+    ],
+    "fun_fact": "W górach — в горах.",
+    "transcription": "goora"
+  },
+  {
+    "id": 246,
+    "word": "las",
+    "translation": "Лес",
+    "description": "Место с множеством деревьев.",
+    "examples": [
+      "Idę do lasu. — Иду в лес."
+    ],
+    "fun_fact": "W lesie — в лесу.",
+    "transcription": "las"
+  },
+  {
+    "id": 247,
+    "word": "drzewo",
+    "translation": "Дерево",
+    "description": "Растение с стволом.",
+    "examples": [
+      "Duże drzewo. — Большое дерево."
+    ],
+    "fun_fact": "Drzewa — деревья (множественное число).",
+    "transcription": "dzhevo"
+  },
+  {
+    "id": 248,
+    "word": "kwiat",
+    "translation": "Цветок",
+    "description": "Часть растения.",
+    "examples": [
+      "Piękny kwiat. — Красивый цветок."
+    ],
+    "fun_fact": "Kwiaty — цветы.",
+    "transcription": "kvyat"
+  },
+  {
+    "id": 249,
+    "word": "trawa",
+    "translation": "Трава",
+    "description": "Низкое растение.",
+    "examples": [
+      "Zielona trawa. — Зелёная трава."
+    ],
+    "fun_fact": "Trawa rośnie — трава растёт.",
+    "transcription": "trava"
+  },
+  {
+    "id": 250,
+    "word": "zwierzę",
+    "translation": "Животное",
+    "description": "Живое существо, не человек.",
+    "examples": [
+      "Zwierzę domowe. — Домашнее животное."
+    ],
+    "fun_fact": "Zwierzęta — животные.",
+    "transcription": "zvyezhe"
+  },
+  {
+    "id": 251,
+    "word": "pies",
+    "translation": "Собака",
+    "description": "Домашнее животное.",
+    "examples": [
+      "Mam psa. — У меня есть собака."
+    ],
+    "fun_fact": "Pies to najlepszy przyjaciel człowieka.",
+    "transcription": "pyes"
+  },
+  {
+    "id": 252,
+    "word": "kot",
+    "translation": "Кот / Кошка",
+    "description": "Домашнее животное.",
+    "examples": [
+      "Mój kot śpi. — Мой кот спит."
+    ],
+    "fun_fact": "Kotka — кошка (женская форма).",
+    "transcription": "kot"
+  },
+  {
+    "id": 253,
+    "word": "koń",
+    "translation": "Лошадь / Конь",
+    "description": "Крупное животное.",
+    "examples": [
+      "Czarny koń. — Чёрный конь."
+    ],
+    "fun_fact": "Klacz — кобыла.",
+    "transcription": "kon'"
+  },
+  {
+    "id": 254,
+    "word": "krowa",
+    "translation": "Корова",
+    "description": "Домашнее животное.",
+    "examples": [
+      "Krowa daje mleko. — Корова даёт молоко."
+    ],
+    "fun_fact": "Mleko krowie — коровье молоко.",
+    "transcription": "krova"
+  },
+  {
+    "id": 255,
+    "word": "ptak",
+    "translation": "Птица",
+    "description": "Летающее животное.",
+    "examples": [
+      "Ptak lata. — Птица летает."
+    ],
+    "fun_fact": "Ptaki — птицы.",
+    "transcription": "ptak"
+  },
+  {
+    "id": 256,
+    "word": "samochód",
+    "translation": "Автомобиль / Машина",
+    "description": "Транспортное средство.",
+    "examples": [
+      "Mój samochód. — Моя машина."
+    ],
+    "fun_fact": "Auto — разговорное слово для машины.",
+    "transcription": "samohoot"
+  },
+  {
+    "id": 257,
+    "word": "autobus",
+    "translation": "Автобус",
+    "description": "Общественный транспорт.",
+    "examples": [
+      "Jadę autobusem. — Еду на автобусе."
+    ],
+    "fun_fact": "Przystanek autobusowy — автобусная остановка.",
+    "transcription": "autobus"
+  },
+  {
+    "id": 258,
+    "word": "tramwaj",
+    "translation": "Трамвай",
+    "description": "Городской транспорт.",
+    "examples": [
+      "Tramwaj jedzie. — Трамвай едет."
+    ],
+    "fun_fact": "В Варшаве есть трамваи.",
+    "transcription": "tramvay"
+  },
+  {
+    "id": 259,
+    "word": "pociąg",
+    "translation": "Поезд",
+    "description": "Железнодорожный транспорт.",
+    "examples": [
+      "Pociąg odjeżdża. — Поезд отправляется."
+    ],
+    "fun_fact": "Pociąg ekspresowy — экспресс.",
+    "transcription": "potshonk"
+  },
+  {
+    "id": 260,
+    "word": "samolot",
+    "translation": "Самолёт",
+    "description": "Воздушный транспорт.",
+    "examples": [
+      "Lecę samolotem. — Лечу самолётом."
+    ],
+    "fun_fact": "Samolot ląduje — самолёт приземляется.",
+    "transcription": "samolot"
+  },
+  {
+    "id": 261,
+    "word": "rower",
+    "translation": "Велосипед",
+    "description": "Двухколёсный транспорт.",
+    "examples": [
+      "Jadę rowerem. — Еду на велосипеде."
+    ],
+    "fun_fact": "Rowerzysta — велосипедист.",
+    "transcription": "rover"
+  },
+  {
+    "id": 262,
+    "word": "noga",
+    "translation": "Нога",
+    "description": "Часть тела.",
+    "examples": [
+      "Boli mnie noga. — Болит нога."
+    ],
+    "fun_fact": "Nogi — ноги.",
+    "transcription": "noga"
+  },
+  {
+    "id": 263,
+    "word": "ręka",
+    "translation": "Рука",
+    "description": "Часть тела.",
+    "examples": [
+      "Moja ręka. — Моя рука."
+    ],
+    "fun_fact": "Ręce — руки.",
+    "transcription": "renka"
+  },
+  {
+    "id": 264,
+    "word": "głowa",
+    "translation": "Голова",
+    "description": "Часть тела.",
+    "examples": [
+      "Boli mnie głowa. — Болит голова."
+    ],
+    "fun_fact": "Ból głowy — головная боль.",
+    "transcription": "gwova"
+  },
+  {
+    "id": 265,
+    "word": "oko",
+    "translation": "Глаз",
+    "description": "Орган зрения.",
+    "examples": [
+      "Niebieskie oko. — Голубой глаз."
+    ],
+    "fun_fact": "Oczy — глаза.",
+    "transcription": "oko"
+  },
+  {
+    "id": 266,
+    "word": "ucho",
+    "translation": "Ухо",
+    "description": "Орган слуха.",
+    "examples": [
+      "Boli mnie ucho. — Болит ухо."
+    ],
+    "fun_fact": "Uszy — уши.",
+    "transcription": "uho"
+  },
+  {
+    "id": 267,
+    "word": "nos",
+    "translation": "Нос",
+    "description": "Орган обоняния.",
+    "examples": [
+      "Mam duży nos. — У меня большой нос."
+    ],
+    "fun_fact": "Katar — насморк.",
+    "transcription": "nos"
+  },
+  {
+    "id": 268,
+    "word": "usta",
+    "translation": "Рот / Уста",
+    "description": "Орган для еды и речи.",
+    "examples": [
+      "Otwórz usta. — Открой рот."
+    ],
+    "fun_fact": "Только множественное число.",
+    "transcription": "usta"
+  },
+  {
+    "id": 269,
+    "word": "zęby",
+    "translation": "Зубы",
+    "description": "Органы в ротовой полости.",
+    "examples": [
+      "Białe zęby. — Белые зубы."
+    ],
+    "fun_fact": "Ząb — зуб (единственное число).",
+    "transcription": "zemby"
+  },
+  {
+    "id": 270,
+    "word": "serce",
+    "translation": "Сердце",
+    "description": "Орган или символ любви.",
+    "examples": [
+      "Moje serce. — Моё сердце."
+    ],
+    "fun_fact": "Z całego serca — от всего сердца.",
+    "transcription": "sertse"
+  },
+  {
+    "id": 271,
+    "word": "lekarz",
+    "translation": "Врач",
+    "description": "Медицинский работник.",
+    "examples": [
+      "Idę do lekarza. — Иду к врачу."
+    ],
+    "fun_fact": "Lekarka — врач (женщина).",
+    "transcription": "lekash"
+  },
+  {
+    "id": 272,
+    "word": "szpital",
+    "translation": "Больница",
+    "description": "Медицинское учреждение.",
+    "examples": [
+      "Jestem w szpitalu. — Я в больнице."
+    ],
+    "fun_fact": "Pacjent — пациент.",
+    "transcription": "shpital"
+  },
+  {
+    "id": 273,
+    "word": "choroba",
+    "translation": "Болезнь",
+    "description": "Состояние нездоровья.",
+    "examples": [
+      "Mam chorobę. — У меня болезнь."
+    ],
+    "fun_fact": "Chory — больной.",
+    "transcription": "horoba"
+  },
+  {
+    "id": 274,
+    "word": "zdrowie",
+    "translation": "Здоровье",
+    "description": "Состояние хорошего самочувствия.",
+    "examples": [
+      "Na zdrowie! — На здоровье! (при чихании или тосте)"
+    ],
+    "fun_fact": "Zdrowy — здоровый.",
+    "transcription": "zdrovye"
+  },
+  {
+    "id": 275,
+    "word": "ból",
+    "translation": "Боль",
+    "description": "Физическое или эмоциональное страдание.",
+    "examples": [
+      "Mam ból głowy. — У меня головная боль."
+    ],
+    "fun_fact": "Boli mnie — у меня болит.",
+    "transcription": "bool"
+  },
+  {
+    "id": 276,
+    "word": "pieniądze",
+    "translation": "Деньги",
+    "description": "Средство платежа.",
+    "examples": [
+      "Nie mam pieniędzy. — Нет денег."
+    ],
+    "fun_fact": "Только множественное число.",
+    "transcription": "pyenyondze"
+  },
+  {
+    "id": 277,
+    "word": "złoty",
+    "translation": "Злотый (валюта)",
+    "description": "Польская валюта.",
+    "examples": [
+      "Dziesięć złotych. — Десять злотых."
+    ],
+    "fun_fact": "PLN — код злотого.",
+    "transcription": "zwoty"
+  },
+  {
+    "id": 278,
+    "word": "grosz",
+    "translation": "Грош",
+    "description": "1/100 злотого.",
+    "examples": [
+      "Pięćdziesiąt groszy. — Пятьдесят грошей."
+    ],
+    "fun_fact": "Не mam grosza — нет ни гроша.",
+    "transcription": "grosh"
+  },
+  {
+    "id": 279,
+    "word": "cena",
+    "translation": "Цена",
+    "description": "Стоимость чего-либо.",
+    "examples": [
+      "Jaka cena? — Какая цена?"
+    ],
+    "fun_fact": "Dobra cena — хорошая цена.",
+    "transcription": "tsena"
+  },
+  {
+    "id": 280,
+    "word": "drogi",
+    "translation": "Дорогой (по цене)",
+    "description": "Высокая цена.",
+    "examples": [
+      "To jest drogie. — Это дорого."
+    ],
+    "fun_fact": "Droższy — дороже.",
+    "transcription": "drogi"
+  },
+  {
+    "id": 281,
+    "word": "tani",
+    "translation": "Дешёвый",
+    "description": "Низкая цена.",
+    "examples": [
+      "To jest tanie. — Это дешево."
+    ],
+    "fun_fact": "Tańszy — дешевле.",
+    "transcription": "tani"
+  },
+  {
+    "id": 282,
+    "word": "uczyć",
+    "translation": "Учить / Преподавать",
+    "description": "Передавать знания другим или изучать самому.",
+    "examples": [
+      "Uczę matematyki. — Преподаю математику.",
+      "Uczę się polskiego. — Учу польский."
+    ],
+    "fun_fact": "Nauczyć — выучить, научить.",
+    "transcription": "uchych'"
+  },
+  {
+    "id": 283,
+    "word": "wakacje",
+    "translation": "Каникулы / Отпуск",
+    "description": "Период отдыха от работы или учёбы.",
+    "examples": [
+      "Wakacje letnie. — Летние каникулы.",
+      "Jadę na wakacje. — Еду в отпуск."
+    ],
+    "fun_fact": "В Польше школьные летние каникулы длятся 2 месяца!",
+    "transcription": "vakatsye"
+  },
+  {
+    "id": 284,
+    "word": "płacić",
+    "translation": "Платить",
+    "description": "Отдавать деньги.",
+    "examples": [
+      "Płacę gotówką. — Плачу наличными."
+    ],
+    "fun_fact": "Zapłacić — заплатить.",
+    "transcription": "pwachich'"
+  },
+  {
+    "id": 285,
+    "word": "muzyka",
+    "translation": "Музыка",
+    "description": "Искусство звуков.",
+    "examples": [
+      "Słucham muzyki. — Слушаю музыку."
+    ],
+    "fun_fact": "Muzyk — музыкант.",
+    "transcription": "muzyka"
+  },
+  {
+    "id": 286,
+    "word": "film",
+    "translation": "Фильм",
+    "description": "Кинопроизведение.",
+    "examples": [
+      "Oglądam film. — Смотрю фильм."
+    ],
+    "fun_fact": "Kino — кинотеатр.",
+    "transcription": "film"
+  },
+  {
+    "id": 287,
+    "word": "telewizja",
+    "translation": "Телевидение / Телевизор",
+    "description": "Средство массовой информации.",
+    "examples": [
+      "Oglądam telewizję. — Смотрю телевизор."
+    ],
+    "fun_fact": "Telewizor — телевизор (прибор).",
+    "transcription": "televizya"
+  },
+  {
+    "id": 288,
+    "word": "radio",
+    "translation": "Радио",
+    "description": "Средство вещания.",
+    "examples": [
+      "Słucham radia. — Слушаю радио."
+    ],
+    "fun_fact": "Radio internetowe — интернет-радио.",
+    "transcription": "radio"
+  },
+  {
+    "id": 289,
+    "word": "telefon",
+    "translation": "Телефон",
+    "description": "Средство связи.",
+    "examples": [
+      "Mój telefon. — Мой телефон."
+    ],
+    "fun_fact": "Smartphone — смартфон.",
+    "transcription": "telefon"
+  },
+  {
+    "id": 290,
+    "word": "komputer",
+    "translation": "Компьютер",
+    "description": "Электронное устройство.",
+    "examples": [
+      "Pracuję na komputerze. — Работаю на компьютере."
+    ],
+    "fun_fact": "Laptop — ноутбук.",
+    "transcription": "komputer"
+  },
+  {
+    "id": 291,
+    "word": "internet",
+    "translation": "Интернет",
+    "description": "Всемирная сеть.",
+    "examples": [
+      "Surfuję po internecie. — Сижу в интернете."
+    ],
+    "fun_fact": "WWW — world wide web.",
+    "transcription": "internet"
+  },
+  {
+    "id": 292,
+    "word": "email",
+    "translation": "Электронная почта",
+    "description": "Способ общения.",
+    "examples": [
+      "Wysyłam email. — Отправляю email."
+    ],
+    "fun_fact": "Maila — разговорная форма.",
+    "transcription": "email"
+  },
+  {
+    "id": 293,
+    "word": "list",
+    "translation": "Письмо",
+    "description": "Бумажное сообщение.",
+    "examples": [
+      "Piszę list. — Пишу письмо."
+    ],
+    "fun_fact": "Listonosz — почтальон.",
+    "transcription": "list"
+  },
+  {
+    "id": 294,
+    "word": "pytanie",
+    "translation": "Вопрос",
+    "description": "Запрос информации.",
+    "examples": [
+      "Mam pytanie. — У меня вопрос."
+    ],
+    "fun_fact": "Pytać — спрашивать.",
+    "transcription": "pytanie"
+  },
+  {
+    "id": 295,
+    "word": "odpowiedź",
+    "translation": "Ответ",
+    "description": "Реакция на вопрос.",
+    "examples": [
+      "Znam odpowiedź. — Знаю ответ."
+    ],
+    "fun_fact": "Odpowiadać — отвечать.",
+    "transcription": "otpovyedz'"
+  },
+  {
+    "id": 296,
+    "word": "problem",
+    "translation": "Проблема",
+    "description": "Трудность, вопрос.",
+    "examples": [
+      "Mam problem. — У меня проблема."
+    ],
+    "fun_fact": "Bez problemu — без проблем.",
+    "transcription": "problem"
+  },
+  {
+    "id": 297,
+    "word": "pomoc",
+    "translation": "Помощь",
+    "description": "Содействие кому-либо.",
+    "examples": [
+      "Potrzebuję pomocy. — Нуждаюсь в помощи."
+    ],
+    "fun_fact": "Pomagać — помогать.",
+    "transcription": "pomots"
+  },
+  {
+    "id": 298,
+    "word": "szczęście",
+    "translation": "Счастье / Удача",
+    "description": "Состояние радости или удачи.",
+    "examples": [
+      "Mam szczęście. — Мне повезло."
+    ],
+    "fun_fact": "Na szczęście — к счастью.",
+    "transcription": "shchenshchye"
+  },
+  {
+    "id": 299,
+    "word": "polska",
+    "translation": "Польша",
+    "description": "Страна в Центральной Европе.",
+    "examples": [
+      "Mieszkam w Polsce. — Живу в Польше."
+    ],
+    "fun_fact": "Polska to piękny kraj! — Польша красивая страна!",
+    "transcription": "polska"
+  }
+]
