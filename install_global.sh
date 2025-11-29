@@ -9,6 +9,12 @@ echo "🚀 Installing Polish Language Bot..."
 # Navigate to bot directory
 cd ~/polish_bot || { mkdir -p ~/polish_bot && cd ~/polish_bot; }
 
+# Remove old virtual environment if exists
+if [ -d "venv" ]; then
+    echo "🗑️  Removing old virtual environment..."
+    rm -rf venv
+fi
+
 # Clone or update repository
 if [ -d ".git" ]; then
     echo "📥 Updating repository..."
@@ -26,7 +32,7 @@ EOF
 
 # Install packages globally (user scope)
 echo "📦 Installing dependencies globally..."
-pip3 install --user -r requirements.txt
+python3 -m pip install --user -r requirements.txt
 
 echo ""
 echo "✅ Installation complete!"
