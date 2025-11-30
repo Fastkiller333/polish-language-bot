@@ -284,7 +284,7 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await help_command(update, context)
 
 
-async def send_daily_words(context: ContextTypes.DEFAULT_TYPE):
+async def send_daily_words(application):
     """Send daily words to all users with notifications enabled"""
     logger.info("Starting daily word distribution...")
     
@@ -293,7 +293,24 @@ async def send_daily_words(context: ContextTypes.DEFAULT_TYPE):
     
     for user_id in users:
         try:
-            await send_next_word(user_id, context)
+            # Get next word ID
+            word_id = db.get_next_word_id(user_id, TOTAL_WORDS)
+            
+            # Get word data
+            word_data = WORDS_DATABASE[word_id]
+            
+            # Format message
+            message = format_word_message(word_data)
+            
+            # Send message directly using bot
+            await application.bot.send_message(
+                chat_id=user_id,
+                text=message,
+                parse_mode='Markdown'
+            )
+            
+            # Add to history
+            db.add_word_to_history(user_id, word_id)
             success_count += 1
         except Exception as e:
             logger.error(f"Failed to send word to user {user_id}: {e}")
