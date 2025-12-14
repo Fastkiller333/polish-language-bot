@@ -114,3 +114,6 @@ print("="*50)
 print("\nYour bot is ready to run with:")
 print(f"  python3 {os.path.join(BASE_DIR, 'main.py')}")
 
+
+
+

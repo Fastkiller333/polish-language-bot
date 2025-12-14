@@ -189,3 +189,6 @@ class Database:
             'percentage': round((len(sent_words) / total_words) * 100, 1)
         }
 
+
+
+
