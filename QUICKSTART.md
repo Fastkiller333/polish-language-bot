@@ -169,3 +169,5 @@ sqlite3 polish_bot.db "SELECT COUNT(*) FROM user_word_history;"
 
 
 
+
+

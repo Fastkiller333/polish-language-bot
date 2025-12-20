@@ -24,11 +24,16 @@ else
     git clone https://github.com/Fastkiller333/polish-language-bot.git .
 fi
 
-# Create .env file
-echo "🔑 Creating .env file..."
-cat > .env << 'EOF'
-TELEGRAM_BOT_TOKEN=8234558544:AAFfcCb1tkdWG7btg4jZIIzjky3PiRF1qGw
+# Create .env file template
+echo "🔑 Creating .env file template..."
+if [ ! -f .env ]; then
+    cat > .env << 'EOF'
+TELEGRAM_BOT_TOKEN=YOUR_BOT_TOKEN_HERE
 EOF
+    echo "⚠️  ВАЖНО: Откройте файл .env и замените YOUR_BOT_TOKEN_HERE на ваш настоящий токен от @BotFather"
+else
+    echo "✓ .env уже существует, пропускаем..."
+fi
 
 # Install packages globally (user scope)
 echo "📦 Installing dependencies globally..."
@@ -46,5 +51,7 @@ echo ""
 echo "📋 For Always-on Task on PythonAnywhere:"
 echo "   Command: python3 /home/$USERNAME/polish_bot/main.py"
 echo "   Working directory: (leave empty)"
+echo ""
+echo "⚠️  Для информации о безопасности читайте: SECURITY.md"
 echo ""
 

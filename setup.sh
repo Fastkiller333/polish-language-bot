@@ -25,11 +25,16 @@ else
     git clone https://github.com/Fastkiller333/polish-language-bot.git .
 fi
 
-# Create .env file with token
-echo "🔑 Creating .env file with bot token..."
-cat > .env << 'EOF'
-TELEGRAM_BOT_TOKEN=8234558544:AAFfcCb1tkdWG7btg4jZIIzjky3PiRF1qGw
+# Create .env file template
+echo "🔑 Creating .env file template..."
+if [ ! -f .env ]; then
+    cat > .env << 'EOF'
+TELEGRAM_BOT_TOKEN=YOUR_BOT_TOKEN_HERE
 EOF
+    echo "⚠️  ВАЖНО: Откройте файл .env и замените YOUR_BOT_TOKEN_HERE на ваш настоящий токен от @BotFather"
+else
+    echo "✓ .env уже существует, пропускаем..."
+fi
 
 # Create virtual environment
 echo "🐍 Creating virtual environment..."
@@ -59,5 +64,7 @@ echo "   Working directory: /home/$USERNAME/polish_bot"
 echo ""
 echo "3. Or test manually:"
 echo "   cd ~/polish_bot && source venv/bin/activate && python3 main.py"
+echo ""
+echo "⚠️  Для информации о безопасности читайте: SECURITY.md"
 echo ""
 
